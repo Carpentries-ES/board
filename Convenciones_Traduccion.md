@@ -30,6 +30,8 @@ con Hely o Paula.
 - **commit**
 - **pull**
 - **push**
+- **merge**
+- **timestamp**
 
 ## Términos técnicos a traducir
 
