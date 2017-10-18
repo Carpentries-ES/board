@@ -33,6 +33,6 @@ con Hely o Paula.
 
 - "terminal" en vez de "shell"
 - "linea de comandos" en vez de "comand line"
-
+- "secuencia de caracteres" en lugar de "string"
 
 ## Símbolos que se usen
