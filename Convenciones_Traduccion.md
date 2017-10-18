@@ -28,6 +28,8 @@ con Hely o Paula.
 ## Términos técnicos, no traducir sólo marcar con negrita
 
 - **commit**
+- **pull**
+- **push**
 
 ## Términos técnicos a traducir
 
