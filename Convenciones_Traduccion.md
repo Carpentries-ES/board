@@ -32,6 +32,8 @@ con Hely o Paula.
 - **push**
 - **merge**
 - **timestamp**
+- **checkout**
+- **stage area**
 
 ## Términos técnicos a traducir
 
