@@ -42,5 +42,6 @@ con Hely o Paula.
 - **command line** -> **linea de comandos**
 - **shell** -> **terminal**
 - **string** -> **secuencia de caracteres**
+- **version control** -> **control de versiones**
 
 ## Símbolos que se usen
