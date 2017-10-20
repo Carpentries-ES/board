@@ -38,8 +38,8 @@ con Hely o Paula.
 
 ## Términos técnicos a traducir
 
-- "terminal" en vez de "shell"
-- "linea de comandos" en vez de "comand line"
-- "secuencia de caracteres" en lugar de "string"
+- **command line** -> **linea de comandos**
+- **shell** -> **terminal**
+- **string** -> **secuencia de caracteres**
 
 ## Símbolos que se usen
