@@ -33,6 +33,7 @@ con Hely o Paula.
 - **output**
 - **pull**
 - **push**
+- **script**
 - **stage area**
 - **timestamp**
 
