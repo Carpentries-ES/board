@@ -27,13 +27,14 @@ con Hely o Paula.
 
 ## Términos técnicos, no traducir sólo marcar con negrita
 
+- **checkout**
 - **commit**
+- **merge**
+- **output**
 - **pull**
 - **push**
-- **merge**
-- **timestamp**
-- **checkout**
 - **stage area**
+- **timestamp**
 
 ## Términos técnicos a traducir
 
