@@ -39,9 +39,20 @@ con Hely o Paula.
 
 ## Términos técnicos a traducir
 
-- **command line** -> **linea de comandos**
-- **shell** -> **terminal**
-- **string** -> **secuencia de caracteres**
-- **version control** -> **control de versiones**
+|  Inglés 	| Español (sinónimos)   	            |
+|---	      |---	                                |
+| **command line**  	|  **linea de comandos**  	|
+| **shell**  	       |  **terminal**	|
+| **string**  	| **secuencia de caracteres**   	|
+| **version control**  	| **control de versiones**  	|
+|  **computer** 	    | computadora, ordenador  	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
 
-## Símbolos que se usen
