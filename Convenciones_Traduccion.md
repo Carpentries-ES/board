@@ -36,6 +36,8 @@ con Hely o Paula.
 - **script**
 - **stage area**
 - **timestamp**
+- **username**
+- **password**
 
 ## Términos técnicos a traducir
 
