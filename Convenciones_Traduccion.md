@@ -38,6 +38,13 @@ con Hely o Paula.
 - **stage area**
 - **timestamp**
 - **username**
+- **prompt**
+- **home**
+- **flag**
+- **Desktop**
+- **bash**
+- **pipeline**
+- **cluster**
 
 ## Términos técnicos a traducir
 
@@ -48,8 +55,8 @@ con Hely o Paula.
 | **shell**  	       |  **terminal**	|
 | **string**  	| **secuencia de caracteres**   	|
 | **version control**  	| **control de versiones**  	|
-|   	|   	|
-|   	|   	|
+| **working directory** 	| **directorio de trabajo**  	|
+| **tab completion**  | **autocompletado con el tabulador**  	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
