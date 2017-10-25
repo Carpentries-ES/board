@@ -31,23 +31,23 @@ con Hely o Paula.
 - **commit**
 - **merge**
 - **output**
+- **password**
 - **pull**
 - **push**
 - **script**
 - **stage area**
 - **timestamp**
 - **username**
-- **password**
 
 ## Términos técnicos a traducir
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
 | **command line**  	|  **linea de comandos**  	|
+|  **computer** 	    | computadora, ordenador  	|
 | **shell**  	       |  **terminal**	|
 | **string**  	| **secuencia de caracteres**   	|
 | **version control**  	| **control de versiones**  	|
-|  **computer** 	    | computadora, ordenador  	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
