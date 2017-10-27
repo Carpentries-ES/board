@@ -23,6 +23,7 @@ con Hely o Paula.
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 - Imagenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer** 
+- {:.callout} y {: .challenge} Son simbolos de estilo
 
 
 ## Términos técnicos, no traducir sólo marcar con negrita
