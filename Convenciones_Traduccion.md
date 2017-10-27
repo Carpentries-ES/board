@@ -63,13 +63,14 @@ Por favor mantener orden alfabético
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
-| **command line**  	|  **linea de comandos**  	|
-| **computer** 	    | computadora, ordenador  	|
-| **shell**  	       |  **terminal**	|
-| **string**  	| **secuencia de caracteres**   	|
-| **tab completion**  | **autocompletado con el tabulador**  	|
-| **version control**  	| **control de versiones**  	|
-| **working directory** 	| **directorio de trabajo**  	|
+| **command line**  	|  linea de comando  	|
+| **computer** 	    | computadora / ordenador  	|
+|  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
+| **shell**  	       |  terminal	|
+| **string**  	| secuencia de caracteres   	|
+| **tab completion**  | autocompletado con el tabulador / autocompletar/	|
+| **version control**  	| control de versiones  	|
+| **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
