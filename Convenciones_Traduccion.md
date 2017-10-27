@@ -1,8 +1,7 @@
 # Lineamientos de traducción  
 
 Este será un documento compartido entre todos los traductores, dónde podemos acceder a los lineamientos de traducción. 
-Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algun alineamiento contactarse 
-con Hely o Paula.
+Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algun alineamiento contactarse con Hely o Paula.
 
 
 ## Idioma oficial
@@ -13,7 +12,15 @@ con Hely o Paula.
  - Esta es una tradución en tono de voz informal
  - Vamos a tutear en las traducciones, decir "Tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
  - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
+ 
+## Atención
+ 
+Cada traductor debe ser responsable de:
 
+ - Ser cuidadosos con los acentos o tíldes
+ - Abrir y cerrar símbolos de pregunta y exclamación
+ - Ortografía
+ 
 ## NO se traduce
 
 - Nombres de libros (referencias o citas)
@@ -23,7 +30,7 @@ con Hely o Paula.
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 - Imagenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer** 
-- {:.callout} y {: .challenge} Son simbolos de estilo
+- {:.callout} y {: .challenge} Son símbolos de estilo
 
 
 ## Términos técnicos, no traducir sólo marcar con negrita
