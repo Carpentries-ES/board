@@ -28,36 +28,41 @@ con Hely o Paula.
 
 ## Términos técnicos, no traducir sólo marcar con negrita
 
+Por favor mantener orden alfabético
+
+- **bash**
 - **checkout**
 - **commit**
+- **cluster**
+- **Desktop**
+- **flag**
+- **home**
 - **merge**
 - **output**
 - **password**
+- **pipeline**
+- **prompt**
 - **pull**
 - **push**
 - **script**
 - **stage area**
 - **timestamp**
 - **username**
-- **prompt**
-- **home**
-- **flag**
-- **Desktop**
-- **bash**
-- **pipeline**
-- **cluster**
+
 
 ## Términos técnicos a traducir
+
+Por favor mantener orden alfabético
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
 | **command line**  	|  **linea de comandos**  	|
-|  **computer** 	    | computadora, ordenador  	|
+| **computer** 	    | computadora, ordenador  	|
 | **shell**  	       |  **terminal**	|
 | **string**  	| **secuencia de caracteres**   	|
+| **tab completion**  | **autocompletado con el tabulador**  	|
 | **version control**  	| **control de versiones**  	|
 | **working directory** 	| **directorio de trabajo**  	|
-| **tab completion**  | **autocompletado con el tabulador**  	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
