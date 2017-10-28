@@ -38,6 +38,7 @@ Cada traductor debe ser responsable de:
 Por favor mantener orden alfabético
 
 - **bash**
+- **bytes**
 - **checkout**
 - **commit**
 - **cluster**
@@ -69,7 +70,9 @@ Por favor mantener orden alfabético
 | **shell**  	       |  terminal	|
 | **string**  	| secuencia de caracteres   	|
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
+| **trash bin**  | papelera de reciclaje/	|
 | **version control**  	| control de versiones  	|
+| **wild card**  | caracter especial/	|
 | **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
 |   	|   	|
 |   	|   	|
