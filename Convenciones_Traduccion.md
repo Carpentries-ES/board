@@ -71,6 +71,8 @@ Por favor mantener orden alfabético
 | **command line**  	|  linea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
 |  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
+|  **loop** 	|  bucle 	|
+|  **quote** 	|  entrecomillar 	|
 |  **run** 	|  ejecutar 	|
 | **shell**  	       |  terminal	|
 | **string**  	| secuencia de caracteres   	|
