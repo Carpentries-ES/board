@@ -79,6 +79,8 @@ Por favor mantener orden alfabético
 | **click**  	|  clic  	|
 | **command line**  	|  linea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
+| **dollar sign** 	    | signo `$`	|
+| **dry-run** 	    | ejecución "en seco" 	|
 |  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
 |  **loop** 	|  bucle 	|
 |  **quote** 	|  entrecomillar 	|
