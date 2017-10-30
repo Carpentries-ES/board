@@ -1,26 +1,26 @@
 # Lineamientos de traducción  
 
-Este será un documento compartido entre todos los traductores, dónde podemos acceder a los lineamientos de traducción. 
+Este será un documento compartido entre todos los traductores, dónde podemos acceder a los lineamientos de traducción.
 Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algun alineamiento contactarse con Hely o Paula.
 
 
 ## Idioma oficial
  Español
- 
+
 ## Tono de voz
 
  - Esta es una tradución en tono de voz informal
  - Vamos a tutear en las traducciones, decir "Tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
  - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
- 
+
 ## Atención
- 
+
 Cada traductor debe ser responsable de:
 
  - Ser cuidadosos con los acentos o tíldes
  - Abrir y cerrar símbolos de pregunta y exclamación
  - Ortografía
- 
+
 ## NO se traduce
 
 - Nombres de libros (referencias o citas)
@@ -29,7 +29,7 @@ Cada traductor debe ser responsable de:
 - Nombres de la organización, por ejemplo **The Carpentries** **Software Carpentry** and **Data Carpentry**
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 - Imagenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
-- Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer** 
+- Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 - {:.callout} y {: .challenge} Son símbolos de estilo
 
 
@@ -39,19 +39,22 @@ Por favor mantener orden alfabético
 
 - **B**
     - **bash**
+    - **bit score**
     - **bytes**
 - **C**
     - **checkout**
     - **commit**
     - **cluster**
-- **D**
+- **D, E**
     - **dataset**
-    - **Desktop** 
+    - **Desktop**
+    - **e-value**
 - **F, G, H**
     - **flag**
     - **home**
 - **M**    
     - **merge**
+    - **mismatches**
 - **O**   
     - **output**
 - **P**   
@@ -61,10 +64,12 @@ Por favor mantener orden alfabético
     - **prompt**
     - **pull**
     - **push**
+    - **query**
 - **S**   
     - **script**
     - **set**
     - **stage area**
+    - **subject**
 - **T, U, V, W, X, Y, Z**   
     - **timestamp**
     - **username**
@@ -81,6 +86,7 @@ Por favor mantener orden alfabético
 | **computer** 	    | computadora / ordenador  	|
 | **dollar sign** 	    | signo `$`	|
 | **dry-run** 	    | ejecución "en seco" 	|
+| **environment variable**  | variable de entorno |
 |  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
 |  **loop** 	|  bucle 	|
 |  **quote** 	|  entrecomillar 	|
@@ -99,4 +105,3 @@ Por favor mantener orden alfabético
 |   	|   	|
 |   	|   	|
 |   	|   	|
-
