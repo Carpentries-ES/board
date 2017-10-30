@@ -37,28 +37,37 @@ Cada traductor debe ser responsable de:
 
 Por favor mantener orden alfabético
 
-- **bash**
-- **bytes**
-- **checkout**
-- **commit**
-- **cluster**
-- **dataset**
-- **Desktop**
-- **flag**
-- **home**
-- **merge**
-- **output**
-- **password**
-- **pipe**
-- **pipeline**
-- **prompt**
-- **pull**
-- **push**
-- **script**
-- **set**
-- **stage area**
-- **timestamp**
-- **username**
+- **B**
+    - **bash**
+    - **bytes**
+- **C**
+    - **checkout**
+    - **commit**
+    - **cluster**
+- **D**
+    - **dataset**
+    - **Desktop** 
+- **F, G, H**
+    - **flag**
+    - **home**
+- **M**    
+    - **merge**
+- **O**   
+    - **output**
+- **P**   
+    - **password**
+    - **pipe**
+    - **pipeline**
+    - **prompt**
+    - **pull**
+    - **push**
+- **S**   
+    - **script**
+    - **set**
+    - **stage area**
+- **T, U, V, W, X, Y, Z**   
+    - **timestamp**
+    - **username**
 
 
 ## Términos técnicos a traducir
@@ -79,7 +88,7 @@ Por favor mantener orden alfabético
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
 | **trash bin**  | papelera de reciclaje	|
 | **version control**  	| control de versiones  	|
-| **wild card**  | caracter especial	|
+| **wild card**  | caracter especial / comodín	|
 | **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
 |   	|   	|
 |   	|   	|
