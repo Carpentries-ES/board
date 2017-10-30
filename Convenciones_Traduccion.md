@@ -42,17 +42,20 @@ Por favor mantener orden alfabético
 - **checkout**
 - **commit**
 - **cluster**
+- **dataset**
 - **Desktop**
 - **flag**
 - **home**
 - **merge**
 - **output**
 - **password**
+- **pipe**
 - **pipeline**
 - **prompt**
 - **pull**
 - **push**
 - **script**
+- **set**
 - **stage area**
 - **timestamp**
 - **username**
@@ -64,15 +67,17 @@ Por favor mantener orden alfabético
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
+| **click**  	|  clic  	|
 | **command line**  	|  linea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
 |  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
+|  **run** 	|  ejecutar 	|
 | **shell**  	       |  terminal	|
 | **string**  	| secuencia de caracteres   	|
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
-| **trash bin**  | papelera de reciclaje/	|
+| **trash bin**  | papelera de reciclaje	|
 | **version control**  	| control de versiones  	|
-| **wild card**  | caracter especial/	|
+| **wild card**  | caracter especial	|
 | **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
 |   	|   	|
 |   	|   	|
