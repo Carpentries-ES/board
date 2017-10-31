@@ -43,7 +43,7 @@ Por favor mantener orden alfabético
     - los **bytes**
 - **C**
     - el **checkout**
-    - el **commit**
+    - sin artículo **commit**
     - el **cluster**
 - **D, E**
     - el **dataset**
