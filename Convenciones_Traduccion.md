@@ -89,6 +89,7 @@ Por favor mantener orden alfabético
 | **dollar sign** 	    | signo `$`	|
 | **dry-run** 	    | ejecución "en seco" 	|
 | **environment variable**  | variable de entorno |
+|**file**   	|  archivo 	|
 |  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
 |  **loop** 	|  bucle 	|
 |  **quote** 	|  entrecomillar 	|
