@@ -74,7 +74,7 @@ Por favor mantener orden alfabético
     - el **timestamp**
     - el **username**
 
-Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el.
+Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
 ## Términos técnicos a traducir
 
