@@ -31,6 +31,7 @@ Cada traductor debe ser responsable de:
 - Imagenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 - {:.callout} y {: .challenge} Son símbolos de estilo
+- Los títulos en la cabecera de cada capituno se se traduce son símbolos de estilo (title, objectives, keypoints, etc.)
 
 
 ## Términos técnicos, no traducir sólo marcar con negrita
