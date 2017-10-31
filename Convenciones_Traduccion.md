@@ -38,42 +38,43 @@ Cada traductor debe ser responsable de:
 Por favor mantener orden alfabético
 
 - **B**
-    - **bash**
-    - **bit score**
-    - **bytes**
+    - sin artículo **bash**
+    - el **bit score**
+    - los **bytes**
 - **C**
-    - **checkout**
-    - **commit**
-    - **cluster**
+    - el **checkout**
+    - el **commit**
+    - el **cluster**
 - **D, E**
-    - **dataset**
-    - **Desktop**
-    - **e-value**
+    - el **dataset**
+    - el **Desktop**
+    - el **e-value**
 - **F, G, H**
-    - **flag**
+    - sin artículo **flag**
     - **home**
 - **M**    
-    - **merge**
-    - **mismatches**
+    - sin artículo **merge**
+    - los **mismatches**
 - **O**   
-    - **output**
+    - el **output**
 - **P**   
-    - **password**
-    - **pipe**
-    - **pipeline**
-    - **prompt**
-    - **pull**
-    - **push**
-    - **query**
+    - el **password**
+    - sin artículo **pipe**
+    - el **pipeline**
+    - el **prompt**
+    - sin artículo **pull**
+    - sin artículo **push**
+    - el **query**
 - **S**   
-    - **script**
-    - **set**
-    - **stage area**
-    - **subject**
+    - el **script**
+    - el **set**
+    - el **stage area**
+    - el **subject**
 - **T, U, V, W, X, Y, Z**   
-    - **timestamp**
-    - **username**
+    - el **timestamp**
+    - el **username**
 
+Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el.
 
 ## Términos técnicos a traducir
 
