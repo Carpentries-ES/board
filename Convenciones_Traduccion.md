@@ -87,6 +87,7 @@ Por favor mantener orden alfabético
 | **click**  	|  clic  	|
 | **command line**  	|  linea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
+| **Challenge** 	    | desafío / reto  	|
 | **dollar sign** 	    | signo `$`	|
 | **dry-run** 	    | ejecución "en seco" 	|
 | **environment variable**  | variable de entorno |
