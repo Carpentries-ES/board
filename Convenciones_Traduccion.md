@@ -84,6 +84,7 @@ Por favor mantener orden alfabético
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
+|**browse**| Navegador de archivos |
 |**build** | construir el ejecutable |
 | **click**  	|  clic  	|
 | **command line**  	|  linea de comando  	|
