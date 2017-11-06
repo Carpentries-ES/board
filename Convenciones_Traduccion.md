@@ -57,7 +57,7 @@ Por favor mantener orden alfabético
    - el **e-value**
 - **F** 
     - sin artículo **flag**
-    - **false**
+    - **false** / **FALSE**
     - **factor**
  - **G, H**
     - **home**
@@ -87,7 +87,7 @@ Por favor mantener orden alfabético
 - **T, U, V, W, X, Y, Z**   
     - el **timestamp**
     - el **username**
-    - **true**
+    - **true** / **TRUE**
 
 Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
@@ -97,8 +97,8 @@ Por favor mantener orden alfabético
 
 |  Inglés 	| Español (sinónimos)   	            |
 |---	      |---	                                |
-|**browse**| Navegador de archivos |
-|**build** | construir el ejecutable |
+| **browser**| Navegador de archivos |
+| **build** | construir el ejecutable |
 | **click**  	|  clic  	|
 | **command line**  	|  linea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
@@ -106,11 +106,11 @@ Por favor mantener orden alfabético
 | **dollar sign** 	    | signo `$`	|
 | **dry-run** 	    | ejecución "en seco" 	|
 | **environment variable**  | variable de entorno |
-|**file**   	|  archivo 	|
-|  **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
-|  **loop** 	|  bucle 	|
-|  **quote** 	|  entrecomillar 	|
-|  **run** 	|  ejecutar 	|
+| **file**   	|  archivo 	|
+| **legacy systems** 	|  sistemas obsoletos / sistemas heredados / 	|
+| **loop** 	|  bucle 	|
+| **quote** 	|  entrecomillar 	|
+| **run** 	|  ejecutar 	|
 | **spreadsheet**  	| planilla de cálculo   	|
 | **shell**  	       |  terminal	|
 | **string**  	| secuencia de caracteres   	|
