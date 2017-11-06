@@ -51,10 +51,14 @@ Por favor mantener orden alfabético
     - el **dataframe**
     - el **Desktop**
     - el **e-value**
-- **F, G, H**
+- **F** 
     - sin artículo **flag**
     - **false**
+    - **factor**
+ - **G, H**
     - **home**
+- **L**
+    - **list**
 - **M**    
     - sin artículo **merge**
     - los **mismatches**
