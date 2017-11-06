@@ -53,6 +53,7 @@ Por favor mantener orden alfabético
     - el **e-value**
 - **F, G, H**
     - sin artículo **flag**
+    - **false**
     - **home**
 - **M**    
     - sin artículo **merge**
@@ -75,6 +76,7 @@ Por favor mantener orden alfabético
 - **T, U, V, W, X, Y, Z**   
     - el **timestamp**
     - el **username**
+    - **true**
 
 Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
