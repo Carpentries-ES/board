@@ -46,19 +46,26 @@ Por favor mantener orden alfabético
     - el **checkout**
     - sin artículo **commit**
     - el **cluster**
-- **D, E**
+    - el tipo de datos **complex** en R
+    - el tipo de datos **character** en R
+- **D**
     - el **dataset**
     - el **dataframe**
     - el **Desktop**
-    - el **e-value**
+    - tipo de datos **double**
+ -**E**
+   - el **e-value**
 - **F** 
     - sin artículo **flag**
     - **false**
     - **factor**
  - **G, H**
     - **home**
+- **I**
+    - el tipo de datos **integer**
 - **L**
     - **list**
+    - el tipo de datos **logical** en R
 - **M**    
     - sin artículo **merge**
     - los **mismatches**
