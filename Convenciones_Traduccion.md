@@ -111,6 +111,7 @@ Por favor mantener orden alfabético
 |  **loop** 	|  bucle 	|
 |  **quote** 	|  entrecomillar 	|
 |  **run** 	|  ejecutar 	|
+| **spreadsheet**  	| planilla de cálculo   	|
 | **shell**  	       |  terminal	|
 | **string**  	| secuencia de caracteres   	|
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
@@ -118,7 +119,6 @@ Por favor mantener orden alfabético
 | **version control**  	| control de versiones  	|
 | **wild card**  | caracter especial / comodín	|
 | **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
-|   	|   	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
