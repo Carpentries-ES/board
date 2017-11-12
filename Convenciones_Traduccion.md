@@ -38,6 +38,8 @@ Cada traductor debe ser responsable de:
 
 Por favor mantener orden alfabético
 
+- **A**
+    - el **array**
 - **B**
     - sin artículo **bash**
     - el **bit score**
