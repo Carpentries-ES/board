@@ -62,6 +62,7 @@ Por favor mantener orden alfabético
     - **false** / **FALSE**
     - **factor**
  - **G, H**
+    - **gapminder data**
     - **home**
 - **I**
     - el tipo de datos **integer**
@@ -117,6 +118,7 @@ Por favor mantener orden alfabético
 | **shell**  	       |  terminal  |
 | **string**  	|  secuencia de caracteres  |
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
+| **tip** | sugerencia 
 | **trash bin**  | papelera de reciclaje	|
 | **version control**  	| control de versiones  |
 | **wild card**  | caracter especial / comodín	|
