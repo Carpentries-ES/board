@@ -1,7 +1,7 @@
 # Lineamientos de traducción  
 
-Este será un documento compartido entre todos los traductores, dónde podemos acceder a los lineamientos de traducción.
-Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algun alineamiento contactarse con Hely o Paula.
+Este será un documento compartido entre todos los traductores, donde podemos acceder a los lineamientos de traducción.
+Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento contactarse con Hely o Paula.
 
 
 ## Idioma oficial
@@ -17,7 +17,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 
 Cada traductor debe ser responsable de:
 
- - Ser cuidadosos con los acentos o tíldes
+ - Ser cuidadosos con los acentos o tildes
  - Abrir y cerrar símbolos de pregunta y exclamación
  - Ortografía
 
@@ -28,8 +28,8 @@ Cada traductor debe ser responsable de:
 - Nombres de directorios o **paths**
 - Nombres de la organización, por ejemplo **The Carpentries** **Software Carpentry** and **Data Carpentry**
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
-- Imagenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
-- Role names, por ejemplo **Instructor**, **Maintainer**, **Trainer**
+- Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
+- Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 - {:.callout} y {: .challenge} Son símbolos de estilo
 - Los títulos en la cabecera de cada capituno se se traduce son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
 
@@ -102,7 +102,7 @@ Por favor mantener orden alfabético
 | **browser**| Navegador de archivos |
 | **build** | construir el ejecutable |
 | **click**  	|  clic  	|
-| **command line**  	|  linea de comando  	|
+| **command line**  	|  línea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
 | **Challenge** 	    | desafío / reto  	|
 | **dollar sign** 	    | signo `$`	|
