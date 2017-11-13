@@ -104,7 +104,7 @@ Por favor mantener orden alfabético
 | **click**  	|  clic  	|
 | **command line**  	|  línea de comando  	|
 | **computer** 	    | computadora / ordenador  	|
-| **Challenge** 	    | desafío / reto  	|
+| **Challenge** 	    | desafío	|
 | **dollar sign** 	    | signo `$`	|
 | **dry-run** 	    | ejecución "en seco" 	|
 | **environment variable**  | variable de entorno |
@@ -113,12 +113,12 @@ Por favor mantener orden alfabético
 | **loop** 	|  bucle 	|
 | **quote** 	|  entrecomillar 	|
 | **run** 	|  ejecutar 	|
-| **spreadsheet**  	| planilla de cálculo   	|
-| **shell**  	       |  terminal	|
-| **string**  	| secuencia de caracteres   	|
+| **spreadsheet**  	|  planilla de cálculo  |
+| **shell**  	       |  terminal  |
+| **string**  	|  secuencia de caracteres  |
 | **tab completion**  | autocompletado con el tabulador / autocompletar/	|
 | **trash bin**  | papelera de reciclaje	|
-| **version control**  	| control de versiones  	|
+| **version control**  	| control de versiones  |
 | **wild card**  | caracter especial / comodín	|
 | **working directory** 	| directorio de trabajo / carpeta de trabajo 	|
 |   	|   	|
