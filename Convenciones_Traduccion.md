@@ -102,6 +102,7 @@ Por favor mantener orden alfabético
 
 |  Inglés 	| Español usar esta palabra | (sinónimos) |
 |---	      |---	  |--- |
+| **attendees**| participantes | asistentes|
 | **browser**| Navegador de archivos | |
 | **build** | construir el ejecutable | |
 | **click**  	|  clic  	| |
