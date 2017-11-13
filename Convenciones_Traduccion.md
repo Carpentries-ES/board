@@ -21,6 +21,7 @@ Cada traductor debe ser responsable de:
  - Abrir y cerrar símbolos de pregunta y exclamación
  - Ortografía
  - Por defecto las traducciones llevarán género femenino (la-las-investigadoras-programadoras-etc) a fin de equilibrar el sesgo existente en la mayoría de los documentos, que usan el género masculino
+ - Todos los números del cero al diez se escriben literalmente
  
 ## NO se traduce
 
@@ -95,7 +96,7 @@ Por favor mantener orden alfabético
 
 Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
-## Términos técnicos a traducir
+## Términos técnicos a traducir - Glosario
 
 Por favor mantener orden alfabético
 
