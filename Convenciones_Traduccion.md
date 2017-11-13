@@ -20,7 +20,8 @@ Cada traductor debe ser responsable de:
  - Ser cuidadosos con los acentos o tildes
  - Abrir y cerrar símbolos de pregunta y exclamación
  - Ortografía
-
+ - Por defecto las traducciones llevarán género femenino (la-las-investigadoras-programadoras-etc) a fin de equilibrar el sesgo existente en la mayoría de los documentos, que usan el género masculino
+ 
 ## NO se traduce
 
 - Nombres de libros (referencias o citas)
