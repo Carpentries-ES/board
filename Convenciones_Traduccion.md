@@ -98,8 +98,8 @@ Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con
 
 Por favor mantener orden alfabético
 
-|  Inglés 	| Español usar esta palabra   	            | (sinónimos) |
-|---	      |---	                                | |
+|  Inglés 	| Español usar esta palabra | (sinónimos) |
+|---	      |---	  |--- |
 | **browser**| Navegador de archivos | |
 | **build** | construir el ejecutable | |
 | **click**  	|  clic  	| |
