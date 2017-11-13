@@ -118,6 +118,7 @@ Por favor mantener orden alfabético
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  terminal  | |
 | **string**  	|  secuencia de caracteres  | |
+| **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** | sugerencia | consejo pista|
 | **trash bin**  | papelera de reciclaje	| |
