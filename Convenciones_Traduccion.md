@@ -99,33 +99,27 @@ Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con
 Por favor mantener orden alfabético
 
 |  Inglés 	| Español usar esta palabra   	            | (sinónimos) |
-|---	      |---	                                ||
-| **browser**| Navegador de archivos ||
-| **build** | construir el ejecutable ||
-| **click**  	|  clic  	||
-| **command line**  	|  línea de comando  	||
+|---	      |---	                                | |
+| **browser**| Navegador de archivos | |
+| **build** | construir el ejecutable | |
+| **click**  	|  clic  	| |
+| **command line**  	|  línea de comando  	| |
 | **computer** 	    | computadora | ordenador  	|
 | **Challenge** 	    | desafío	|reto|
-| **dollar sign** 	    | signo `$`	||
-| **dry-run** 	    | ejecución "en seco" 	||
-| **environment variable**  | variable de entorno ||
-| **file**   	|  archivo 	||
+| **dollar sign** 	    | signo `$`	| |
+| **dry-run** 	    | ejecución "en seco" 	| |
+| **environment variable**  | variable de entorno | |
+| **file**   	|  archivo 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
-| **loop** 	|  bucle 	||
-| **quote** 	|  entrecomillar 	||
-| **run** 	|  ejecutar 	||
-| **spreadsheet**  	|  planilla de cálculo  ||
-| **shell**  	       |  terminal  ||
-| **string**  	|  secuencia de caracteres  ||
+| **loop** 	|  bucle 	| |
+| **quote** 	|  entrecomillar 	| |
+| **run** 	|  ejecutar 	| |
+| **spreadsheet**  	|  planilla de cálculo  | |
+| **shell**  	       |  terminal  | |
+| **string**  	|  secuencia de caracteres  | |
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** | sugerencia | consejo pista|
-| **trash bin**  | papelera de reciclaje	||
+| **trash bin**  | papelera de reciclaje	| |
 | **version control**  	| control de versiones|  |
 | **wild card**  | caracter especial | comodín	|
 | **working directory** 	| directorio de trabajo | carpeta de trabajo 	|
-|   	|   	||
-|   	|   	||
-|   	|   	||
-|   	|   	||
-|   	|   	||
-|   	|   	||
