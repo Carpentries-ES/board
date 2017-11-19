@@ -4,19 +4,11 @@ Este será un documento compartido entre todos los traductores, donde podemos ac
 Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento contactarse con Hely o Paula.
 
 
-## Idioma oficial
- Español
-
-## Tono de voz
-
+## Atención
+ - Idioma oficial: Español
  - Esta es una tradución en tono de voz informal
  - Vamos a tutear en las traducciones, decir "Tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
  - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
-
-## Atención
-
-Cada traductor debe ser responsable de:
-
  - Ser cuidadosos con los acentos o tildes
  - Abrir y cerrar símbolos de pregunta y exclamación
  - Ortografía
@@ -64,8 +56,9 @@ Por favor mantener orden alfabético
     - sin artículo **flag**
     - **false** / **FALSE**
     - **factor**
- - **G, H**
-    - **gapminder data**
+ - **G** 
+    - **gapminder**
+ - **H**
     - **home**
 - **I**
     - el tipo de datos **integer**
