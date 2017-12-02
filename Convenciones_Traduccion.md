@@ -25,7 +25,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 - {:.callout} y {: .challenge} Son símbolos de estilo
-- Los títulos en la cabecera de cada capítulo se traduce son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
+- Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
 - Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
 
 
