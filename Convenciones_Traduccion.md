@@ -17,6 +17,10 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
  
 ## NO se traduce
 
+- Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
+- {:.callout} y {: .challenge} Son símbolos de estilo
+- Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
+- Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que el traducirlos dejaría mas claro las instrucciones.
 - Nombres de libros (referencias o citas)
 - Nombres de programas
 - Nombres de directorios o **paths**
@@ -24,10 +28,6 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
-- {:.callout} y {: .challenge} Son símbolos de estilo
-- Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
-- Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
-- Variables y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Los comentarios dentro del código pueden traducirse si ven que el traducirlos dejaría mas claro las instrucciones. 
 
 
 
