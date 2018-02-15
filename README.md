@@ -1,107 +1,92 @@
-# Pasos básicos.
+# Bienvenidos
 
-## Para hacer una sola vez por repositorio
+Hola bienvenidos todas y todos al equipo de traducción de las carpentries!
+Somos integrantes de varios países tratando de apoyar a la comunidad latina, brindando estas lecciones de acceso libre en Español.
 
-Hacer fork del repositorio a traducir, por ejemplo
-"https://github.com/Carpentries-ES/shell-novice", como Carpentries-ES, tiene que
-ser desde una cuenta de github que forma parte de esta "organización".
+Hemos comenzado la traduccion con las lecciones de Software carpentry
 
-El flujo más usado es que cada usuario haga un fork desde su cuenta personal y
-después solicita "pull request" a un repositorio central cada vez que quiere
-realizar un cambio. Pero en este caso queremos simplificar el proceso para la
-traducción y para el uso de transifex.Tendremos que hacer pull-request para
-llevar la traducción al repositorio central de Software Carpentry.
+- The Unix shell
+- Git
+- R para analysis reproducible
 
-Se clona el mismo repositorio en el sistema local, y se instala el cliente de
-transifex en el sistema local siguiendo estas instrucciones
-https://docs.transifex.com/client/installing-the-client, luego ejecutar:
+# Contribuir
 
-```
-$ git clone https://github.com/Carpentries-ES/shell-novice.git
-$ cd shell-novice/
-$ tx init
-```
+[Software Carpentry][swc-site] y [Data Carpentry][dc-site] son
+proyectos de código abierto, y damos la bienvenida a contribuciones 
+de todo tipo: nuevas lecciones, correcciones al material existente, 
+informes de errores, y revisiones de los cambios propuestos son todas
+bienvenidas.
 
-Pienso que la idea es crear una estructura que interfiera lo menos posible con
-los archivos de la version original. Los archivos a traducir son los ´*.md´,
-archivos de texto en formato markdown que se encuentran en la carpeta
-´_episodes´ de cada repositorio. Propongo que las traducciones se pongan en una
-carpeta aparte ´_episodes_<lang>´ en nuestro caso ´_episodes_es´ donde se
-colocarán las traducciones con los mismos nombres de archivo. Recomiendo
-mantener los mismos nombres de archivo para facilitar el seguimiento y para
-evitar problemas con la codificación.
+## Acuerdo de Colaborador
 
-Creé un proyecto en transifex dentro del grupo "Carpentries ES" y dentro de este
-el proyecto "shell-novice-es". No son los mejores nombres si se traduce para
-otros idiomas pero recién me estoy dando cuenta ahora, se puede cambiar a
-futuro.
+Al contribuir, tú aceptas que podemos redistribuir su trabajo bajo
+[nuestra licencia](LICENCIA.md). A cambio, abordaremos tus problemas 
+y/o evaluaremos tu propuesta de cambio tan pronto como podamos, y 
+te ayudaremos a convertirte en miembro de nuestra comunidad. Todos los 
+involucrados en [Software Carpentry][swc-site] y 
+[Data Carpentry][dc-site]
+aceptan cumplir con nuestro [código de conducta](CONDUCT.md).
 
-Para lograr esto he configurado la traducción de la siguiente manera:
+## Cómo contribuir
 
-```
-$ tx set --auto-local -r shell-novice-es.01-intro-md '_episodes_<lang>/01-intro.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/01-intro.md --execute
-$ tx set --auto-local -r shell-novice-es.02-filedir-md '_episodes_<lang>/02-filedir.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/02-filedir.md --execute
-$ tx set --auto-local -r shell-novice-es.03-create-md '_episodes_<lang>/03-create.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/03-create.md --execute
-$ tx set --auto-local -r shell-novice-es.04-pipefilter-md '_episodes_<lang>/04-pipefilter.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/04-pipefilter.md --execute
-$ tx set --auto-local -r shell-novice-es.05-loop-md '_episodes_<lang>/05-loop.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/05-loop.md --execute
-$ tx set --auto-local -r shell-novice-es.06-script-md '_episodes_<lang>/06-script.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/06-script.md --execute
-$ tx set --auto-local -r shell-novice-es.07-find-md '_episodes_<lang>/07-find.md' --source-lang en --type GITHUBMARKDOWN --source-file _episodes/07-find.md --execute
-```
+La forma más fácil de comenzar es presentar un problema para 
+poder corregirlo, como un error ortográfico, algunas palabras no claras,
+o un error fáctico. Contribuir es una buena forma de presentarte 
+y conocer a algunos de los miembros de nuestra comunidad.
 
-Básicamente lo que hacen esos comandos es establecer que los archivos del idioma
-fuente "en" (por inglés) se encuentran en la carpeta "_episodes" y son de
-formato Github markdown, y la versión traducida quedará en la carpeta
-"_episodes_<lang>", el código que devuelve <lang> depende de la configuración
-que hagamos en el proyecto de transifex, allí he seleccionado "es" que define al
-español genérico (cosa que sabemos no existe, pero no vamos a hacer una
-traducción para cada país, ¿verdad? :-D).
+1. Antes de aportar por favor lee las convenciones https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
 
-Y luego el comando
+2. Si tiene una cuenta de[GitHub][github], o están dispuestos a [crear uno][github-join], pero no sabes cómo usar git, puedes informar problemas o sugerir mejoras al [crear un problema o **issue**][nuevo-problema]. Esto nos permite asignar el elemento a alguien y para responder en una conversación abierta. 
 
-```
-$ tx push -st
-```
+2. Si te sientes cómodo con Git, y te gustaría agregar o cambiar material, puede enviar una solicitud de extracción o **pull request**(PR). Las  instrucciones para hacer esto [se incluyen a continuación](#usando-github).
 
-Sube los archivos de fuente (s por source) y de la traducción (t) a transifex.
+## Qué aportar
 
-## Tarea de traducción
+Hay muchas maneras de contribuir, de escribir nuevos ejercicios y
+mejorar los existentes para actualizar o completar la documentación y
+enviando [informes de error o **issues**][nuevo-problema] sobre cosas que no
+funcionan, no son claras o faltan. Si estás buscando ideas, por favor
+ve [la lista de problemas para este repositorio][issues], o los 
+problemas para [Data Carpentry][dc-issues] y 
+[Software Carpentry][swc-issues] proyectos.
 
-Una vez hecho esto, lo que hay que hacer es incluir a los colaboradores en
-https://www.transifex.com/carpentries-es/shell-novice-es/dashboard/ Una vez allí
-se puede traducir los archivos desde la interfaz web de transifex que considero
-bastante intuitiva y amigable. Para esto cada quien debe recibir una invitación
-a colaborar y crear una cuenta en transifex.
+Los comentarios sobre problemas y revisiones de solicitudes de
+extracción son igualmente bienvenidos: somos más fuertes juntos
+que solos, por eso trabajamos en equipo. Los comentarios de principiantes y recién 
+llegados son particularmente valiosos: es fácil para las personas
+que han estado usando estas lecciones por un tiempo, olvidar lo 
+impenetrable que puede ser parte de este material, por lo que los 
+ojos frescos son siempre bienvenidos.
 
-La mayoría de los colaboradores solamente tienen que acceder a transifex y
-empezar a traducir que es el trabajo más tedioso.
+## Usando GitHub
 
-Para llevar los cambios al repositorio de github lo único que hay que hacer es
-ejecutar 
+Si eliges contribuir a través de GitHub, es posible que desees mirar
+[Cómo contribuir a un proyecto de código abierto en GitHub][como-contribuir] (en inglés).
 
-```
-$ tx pull -a
-```
+Cada lección tiene dos mantenedores que revisan problemas y solicitan 
+extracción o alentar a otros a hacerlo. Los mantenedores son 
+voluntarios de la comunidad, y tener una opinión final sobre lo que 
+se fusiona en la lección.
 
-Para traer la versión actual de los archivos traducidos al repositorio local.
+## Otros recursos
 
-```
-$ git add <archivo> # O git add -A si quiero añadir todos los archivos modificados
-$ git commit -m <mensaje>
-$ git push
-```
+Discusión general de [Software Carpentry][swc-site] y 
+[Data Carpentry][dc-site] sucede en la 
+[lista de distribución de discusiones][lista de discusión], 
+a la cual todos son bienvenidos. También puedes 
+[contactarnos por correo electrónico][orchid00 at gmail.com].
 
-Para añadirlos al stage del repositorio, registrar los cambios y subirlo al
-repositorio.
-
-El manejo del repositorio desde la línea de comandos es recomandable que lo
-hagan pocas personas para evitar conflictos. Incluso lo deseable es
-automatizarlo a futuro cuando hayamos madurado el flujo de trabajo y la
-interacción del equipo. También desde la línea de comandos se pueden actualizar
-los archivos originales a traducir desde el repositorio original de Software
-Carpentry, esto se puede realizar con una periodicidad definida, cada mes por
-ejemplo, pero esos son acuerdos a los que debemos llegar entre todos.
-
-
-
-
+[contacto]: mailto:admin@software-carpentry.org
+[dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
+[dc-lessons]: http://datacarpentry.org/lessons/
+[dc-site]: http://datacarpentry.org/
+[discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
+[github]: http://github.com
+[github-flow]: https://guides.github.com/introduction/flow/
+[github-join]: https://github.com/join
+[como-contribuir]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
+[nuevo-problema]: https://github.com/swcarpentry/git-novice/issues/new
+[issues]: https://github.com/swcarpentry/git-novice/issues/
+[swc-lessons]: http://software-carpentry.org/lessons/
+[swc-site]: http://software-carpentry.org/
 
