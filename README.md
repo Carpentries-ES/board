@@ -72,8 +72,8 @@ se fusiona en la lección.
 
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
 * [lista de distribución de discusiones][discuss-list], 
-a la cual todos son bienvenidos. También puedes 
-* [contactarnos por correo electrónico](orchid00 at gmail.com) o 
+a la cual todos son bienvenidos. 
+* También puedes [contactarnos por correo electrónico](orchid00 at gmail.com) o 
 mailto:admin@software-carpentry.org
 
 
