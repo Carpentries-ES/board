@@ -70,21 +70,20 @@ se fusiona en la lección.
 
 ## Otros recursos
 
-* Discusión general de [Software Carpentry][swc-site] y 
-* [Data Carpentry][dc-site] sucede en la 
-* [lista de distribución de discusiones][lista de discusión], 
+* [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
+* [lista de distribución de discusiones][discuss-list], 
 a la cual todos son bienvenidos. También puedes 
-* [contactarnos por correo electrónico](orchid00 at gmail.com)
-* [contacto]: mailto:admin@software-carpentry.org
-* [dc-lessons]: http://datacarpentry.org/lessons/
-* [dc-site]: http://datacarpentry.org/
-* [discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
-* [github]: http://github.com
-* [github-flow]: https://guides.github.com/introduction/flow/
-* [github-join]: https://github.com/join
-* [como-contribuir]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-* [nuevo-problema]: https://github.com/swcarpentry/git-novice/issues/new
-* [issues]: https://github.com/swcarpentry/git-novice/issues/
-* [swc-lessons]: http://software-carpentry.org/lessons/
-* [swc-site]: http://software-carpentry.org/
+* [contactarnos por correo electrónico](orchid00 at gmail.com) o 
+mailto:admin@software-carpentry.org
+[dc-lessons]: http://datacarpentry.org/lessons/
+[dc-site]: http://datacarpentry.org/
+[discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
+[github]: http://github.com
+[github-flow]: https://guides.github.com/introduction/flow/
+[github-join]: https://github.com/join
+[como-contribuir]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
+[nuevo-problema]: https://github.com/swcarpentry/git-novice/issues/new
+[issues]: https://github.com/swcarpentry/git-novice/issues/
+[swc-lessons]: http://software-carpentry.org/lessons/
+[swc-site]: http://software-carpentry.org/
 
