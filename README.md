@@ -3,7 +3,7 @@
 Hola bienvenidos todas y todos al equipo de traducción de las carpentries!
 Somos integrantes de varios países tratando de apoyar a la comunidad latina, brindando estas lecciones de acceso libre en Español.
 
-Hemos comenzado la traduccion con las lecciones de Software carpentry
+Hemos comenzado la traducción con lecciones de Software Carpentry
 
 - The Unix shell
 - Git
