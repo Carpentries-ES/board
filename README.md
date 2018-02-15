@@ -75,6 +75,8 @@ se fusiona en la lección.
 a la cual todos son bienvenidos. También puedes 
 * [contactarnos por correo electrónico](orchid00 at gmail.com) o 
 mailto:admin@software-carpentry.org
+
+
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
 [discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
