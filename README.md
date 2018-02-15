@@ -74,10 +74,8 @@ Discusión general de [Software Carpentry][swc-site] y
 [Data Carpentry][dc-site] sucede en la 
 [lista de distribución de discusiones][lista de discusión], 
 a la cual todos son bienvenidos. También puedes 
-[contactarnos por correo electrónico][orchid00 at gmail.com].
-
+[contactarnos por correo electrónico](orchid00 at gmail.com)
 [contacto]: mailto:admin@software-carpentry.org
-[dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
 [discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
