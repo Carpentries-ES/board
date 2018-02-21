@@ -9,6 +9,21 @@ Hemos comenzado la traducción con lecciones de Software Carpentry
 - Git
 - R para analysis reproducible
 
+# Logros 
+
+Hasta Febrero 20, 2018 tenemos dos lecciones públicas
+Nuevos aportes son bienvenidos en el repositorio de software carpentry
+https://swcarpentry.github.io/git-novice-es/
+https://swcarpentry.github.io/shell-novice-es/
+
+Nuestros repositorios de trabajo
+
+- shell-novice
+- git-novice
+
+Han sido archivados (Esto significa que ahora son sólo de lectura y no se pueden hacer mas cambios), pueden ver aqui: https://github.com/Carpentries-ES
+ 
+
 # Contribuir
 
 [Software Carpentry][swc-site] y [Data Carpentry][dc-site] son
