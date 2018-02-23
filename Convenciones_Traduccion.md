@@ -94,7 +94,8 @@ Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con
 
 ## Términos técnicos a traducir - Glosario
 
-Por favor mantener orden alfabético
+Por favor mantener orden alfabético.
+La collumna de sinónimos está aquí sólo de referencia, son palabras aceptadas, pero usaremos la primera columna para la traducción.
 
 |  Inglés 	| Español usar esta palabra | (sinónimos) |
 |---	      |---	  |--- |
@@ -114,7 +115,7 @@ Por favor mantener orden alfabético
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
 | **spreadsheet**  	|  planilla de cálculo  | |
-| **shell**  	       |  terminal  | |
+| **shell**  	       |  la terminal  | la linea de comandos |
 | **string**  	|  secuencia de caracteres  | |
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
