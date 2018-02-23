@@ -5,9 +5,9 @@ Somos integrantes de varios países tratando de apoyar a la comunidad latina, br
 
 Hemos comenzado la traducción con lecciones de Software Carpentry
 
-- The Unix shell
-- Git
-- R para analysis reproducible
+- [The Unix shell](https://github.com/swcarpentry/shell-novice-es)
+- [Git](https://github.com/swcarpentry/git-novice-es)
+- [R para analysis reproducible](https://github.com/Carpentries-ES/r-novice-gapminder/)
 
 # Logros 
 
