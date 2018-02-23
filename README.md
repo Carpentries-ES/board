@@ -3,25 +3,18 @@
 Hola bienvenidos todas y todos al equipo de traducción de las carpentries!
 Somos integrantes de varios países tratando de apoyar a la comunidad latina, brindando estas lecciones de acceso libre en Español.
 
-Hemos comenzado la traducción con lecciones de Software Carpentry
-
-- [The Unix shell](https://github.com/swcarpentry/shell-novice-es)
-- [Git](https://github.com/swcarpentry/git-novice-es)
-- [R para analysis reproducible](https://github.com/Carpentries-ES/r-novice-gapminder/)
-
 # Logros 
 
-Hasta Febrero 20, 2018 tenemos dos lecciones públicas
-Nuevos aportes son bienvenidos en el repositorio de software carpentry
-https://swcarpentry.github.io/git-novice-es/
-https://swcarpentry.github.io/shell-novice-es/
+Hasta Febrero 20, 2018 tenemos dos lecciones públicas.
+Nuevos aportes son bienvenidos en el repositorio de Software Carpentry.
+Nuestros repositorios de trabajo (los en https://github.com/Carpentries-ES) han sido archivados y ahora son sólo de lectura y no se pueden hacer mas cambios.
+- [The Unix shell](https://github.com/swcarpentry/shell-novice-es)
+- [Git](https://github.com/swcarpentry/git-novice-es)
 
-Nuestros repositorios de trabajo
+# En proceso
 
-- shell-novice
-- git-novice
-
-Han sido archivados (Esto significa que ahora son sólo de lectura y no se pueden hacer mas cambios), pueden ver aqui: https://github.com/Carpentries-ES
+Hemos comenzado la traducción con lecciones de Software Carpentry
+- [R para analysis reproducible](https://github.com/Carpentries-ES/r-novice-gapminder/)
  
 
 # Contribuir
