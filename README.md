@@ -15,6 +15,7 @@ Nuestros repositorios de trabajo (los en https://github.com/Carpentries-ES) han 
 
 Hemos comenzado la traducción con lecciones de Software Carpentry
 - [R para analysis reproducible](https://github.com/Carpentries-ES/r-novice-gapminder/)
+- [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
  
 
 # Contribuir
