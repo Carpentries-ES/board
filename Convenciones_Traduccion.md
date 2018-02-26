@@ -105,6 +105,7 @@ La collumna de sinónimos está aquí sólo de referencia, son palabras aceptada
 | **click**  	|  clic  	| |
 | **command line**  	|  línea de comando  	| |
 | **computer** 	    | computadora | ordenador  	|
+| **contributer** |  contribuidor, no contribuyente||
 | **Challenge** 	    | desafío	|reto|
 | **dollar sign** 	    | signo `$`	| |
 | **dry-run** 	    | ejecución "en seco" 	| |
