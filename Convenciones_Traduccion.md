@@ -30,7 +30,6 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
 
-
 ## Términos técnicos, no traducir sólo marcar con negrita
 
 Por favor mantener orden alfabético
@@ -80,6 +79,8 @@ Por favor mantener orden alfabético
     - sin artículo **pull**
     - sin artículo **push**
     - el **query**
+- **R**
+    - sin artículo **root**
 - **S**   
     - el **script**
     - el **set**
