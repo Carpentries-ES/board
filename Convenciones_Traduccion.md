@@ -116,6 +116,7 @@ La collumna de sinónimos está aquí sólo de referencia, son palabras aceptada
 | **loop** 	|  bucle 	| |
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
+| **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
 | **string**  	|  secuencia de caracteres  | |
