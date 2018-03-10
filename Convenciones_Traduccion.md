@@ -73,6 +73,7 @@ Por favor mantener orden alfabético
     - el **output**
 - **P**   
     - el **password**
+    - el **path**
     - sin artículo **pipe**
     - el **pipeline**
     - el **prompt**
