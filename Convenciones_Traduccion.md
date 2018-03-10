@@ -74,7 +74,7 @@ Por favor mantener orden alfabético
 - **P**   
     - el **password**
     - el **path**
-    - sin artículo **pipe**
+    - un **pipe**
     - el **pipeline**
     - el **prompt**
     - sin artículo **pull**
