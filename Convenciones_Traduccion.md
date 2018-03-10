@@ -51,8 +51,7 @@ Por favor mantener orden alfabético
     - el **dataframe**
     - el **Desktop**
     - tipo de datos **double**
-    
- -**E**
+- **E**
    - el **e-value**
 - **F** 
     - sin artículo **flag**
