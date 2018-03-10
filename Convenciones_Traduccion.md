@@ -24,7 +24,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Nombres de libros (referencias o citas)
 - Nombres de programas
 - Nombres de directorios o **paths**
-- Nombres de la organización, por ejemplo **The Carpentries** **Software Carpentry** and **Data Carpentry**
+- Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
