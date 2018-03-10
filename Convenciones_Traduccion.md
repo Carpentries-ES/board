@@ -97,7 +97,7 @@ Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con
 ## Términos técnicos a traducir - Glosario
 
 Por favor mantener orden alfabético.
-La collumna de sinónimos está aquí sólo de referencia, son palabras aceptadas, pero usaremos la primera columna para la traducción.
+La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas, pero usaremos la primera columna para la traducción.
 
 |  Inglés 	| Español usar esta palabra | (sinónimos) |
 |---	      |---	  |--- |
@@ -105,7 +105,7 @@ La collumna de sinónimos está aquí sólo de referencia, son palabras aceptada
 | **browser**| Navegador de archivos | |
 | **build** | construir el ejecutable | |
 | **click**  	|  clic  	| |
-| **command line**  	|  línea de comando  	| |
+| **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
 | **contributer** |  contribuidor, no contribuyente||
 | **Challenge** 	    | desafío	|reto|
@@ -123,8 +123,8 @@ La collumna de sinónimos está aquí sólo de referencia, son palabras aceptada
 | **string**  	|  secuencia de caracteres  | |
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
-| **tip** / **hint** | sugerencia | consejo pista|
+| **tip** / **hint** | sugerencia | consejo, pista|
 | **trash bin**  | papelera de reciclaje	| |
 | **version control**  	| control de versiones|  |
-| **wild card**  | caracter especial | comodín	|
+| **wild card**  | comodín  | caracter especial |
 | **working directory** 	| directorio de trabajo | carpeta de trabajo 	|
