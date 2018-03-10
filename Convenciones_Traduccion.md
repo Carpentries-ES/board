@@ -5,7 +5,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 
 
 ## Atención
- - Idioma oficial: Español
+ - Idioma oficial: Español de latinoamerica (en si, por que la mayoría de los traductores son de latinoamerica)
  - Esta es una tradución en tono de voz informal
  - Vamos a tutear en las traducciones, decir "Tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
  - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
