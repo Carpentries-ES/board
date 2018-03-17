@@ -139,8 +139,8 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | ``` " ``` | comillas dobles , comillas altas o inglesas |
 | ``` ! ``` | signo de exclamacion, signo de admiracion |
 | ``` # ``` | signo numeral,  almohadilla, un **hashtag** |
+| ``` / ``` | bara, barra inclinada, división, operador cociente, caracter de barra,  |
 | ``` \ ``` | barra invertida , contrabarra , barra inversa |
-| ``` / ``` | barra inclinada, división, operador cociente, caracter de barra,  |
 |  &#124; | barra vertical, pleca , linea vertical, un **pipe** |
 | ``` * ``` | asterisco, comodín,	caracter especial |
 | ``` ~ ``` | tilde, signo de equivalencia |
