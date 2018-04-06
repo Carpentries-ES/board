@@ -40,6 +40,7 @@ Por favor mantener orden alfabético
     - sin artículo **bash**
     - el **bit score**
     - los **bytes**
+    - el **branch**
 - **C**
     - el **checkout**
     - sin artículo **commit**
