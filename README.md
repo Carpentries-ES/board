@@ -1,22 +1,24 @@
 # Bienvenidos
 
 Hola bienvenidos todas y todos al equipo de traducción de las carpentries!
-Somos integrantes de varios países tratando de apoyar a la comunidad latina, brindando estas lecciones de acceso libre en Español.
+Somos integrantes de varios países tratando de apoyar a la comunidad latina/hispano hablante, brindando estas lecciones de acceso libre en Español.
 
 # Logros 
 
-Hasta Febrero 20, 2018 tenemos dos lecciones públicas.
-Nuevos aportes son bienvenidos en el repositorio de Software Carpentry.
-Nuestros repositorios de trabajo (los en https://github.com/Carpentries-ES) han sido archivados y ahora son sólo de lectura y no se pueden hacer mas cambios.
+Marzo 2018, hemos agregado la leccion de [R para análysis reproducible](https://swcarpentry.github.io/r-novice-gapminder-es/) a la lista de lecciones traducidas de Software Carpentry.
+Hasta Febrero 20, 2018 tenemos dos lecciones públicas. Nuevos aportes son bienvenidos en el repositorio de Software Carpentry.
+Nuestros repositorios de trabajo en [https://github.com/Carpentries-ES](https://github.com/Carpentries-ES) han sido archivados y ahora son sólo de lectura, para continuar con cambios y mejoras por favor rigigirse a:
 - [The Unix shell](https://github.com/swcarpentry/shell-novice-es)
 - [Git](https://github.com/swcarpentry/git-novice-es)
+- [R para análysis reproducible](https://swcarpentry.github.io/r-novice-gapminder-es/)
 
 # En proceso
 
-Hemos comenzado la traducción con lecciones de Software Carpentry
-- [R para analysis reproducible](https://github.com/Carpentries-ES/r-novice-gapminder/)
 - [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
- 
+
+# Planes
+
+El siguiente paso es traducir la leccion de [ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop).
 
 # Contribuir
 
@@ -45,19 +47,17 @@ y conocer a algunos de los miembros de nuestra comunidad.
 
 1. Antes de aportar por favor lee las convenciones https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
 
-2. Si tiene una cuenta de[GitHub][github], o están dispuestos a [crear uno][github-join], pero no sabes cómo usar git, puedes informar problemas o sugerir mejoras al [crear un problema o **issue**][nuevo-problema]. Esto nos permite asignar el elemento a alguien y para responder en una conversación abierta. 
+2. Si tiene una cuenta de [GitHub][github], o [crea una cuenta][github-join], si no sabes cómo usar git, te recomendamos la lección de [Git](https://github.com/swcarpentry/git-novice-es). Mientras lees y aprendes con cualquiera de las lecciones puedes informar problemas o sugerir mejoras al crear un problema o **issue**. Esto nos permite asignar el elemento a alguien y responder en una conversación abierta. 
 
-2. Si te sientes cómodo con Git, y te gustaría agregar o cambiar material, puede enviar una solicitud de extracción o **pull request**(PR). Las  instrucciones para hacer esto [se incluyen a continuación](#usando-github).
+2. Si te sientes cómodo con Git, y te gustaría agregar o cambiar material, puede enviar una solicitud de extracción o **pull request** (PR). Las  instrucciones para hacer esto [se incluyen a continuación](#usando-github).
 
 ## Qué aportar
 
 Hay muchas maneras de contribuir, de escribir nuevos ejercicios y
 mejorar los existentes para actualizar o completar la documentación y
-enviando [informes de error o **issues**][nuevo-problema] sobre cosas que no
+enviando informes de error o **issues** sobre cosas que no
 funcionan, no son claras o faltan. Si estás buscando ideas, por favor
-ve [la lista de problemas para este repositorio][issues], o los 
-problemas para [Data Carpentry][dc-issues] y 
-[Software Carpentry][swc-issues] proyectos.
+ve la lista de problemas o **issues** para cada repositorio] going to the tab issues.
 
 Los comentarios sobre problemas y revisiones de solicitudes de
 extracción son igualmente bienvenidos: somos más fuertes juntos
@@ -80,21 +80,15 @@ se fusiona en la lección.
 ## Otros recursos
 
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
-* [lista de distribución de discusiones][discuss-list], 
-a la cual todos son bienvenidos. 
-* También puedes contactarnos por correo electrónico (orchid00 at gmail.com) o 
-mailto:admin@software-carpentry.org
+* También puedes contactarnos por correo electrónico (orchid00 at gmail.com) or rayna.harris at gmail.com 
 
 
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
-[discuss-list]: http://lists.software-carpentry.org/listinfo/discuss
 [github]: http://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
-[como-contribuir]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
-[nuevo-problema]: https://github.com/swcarpentry/git-novice/issues/new
-[issues]: https://github.com/swcarpentry/git-novice/issues/
+[como-contribuir]: https://guides.github.com/activities/hello-world/
 [swc-lessons]: http://software-carpentry.org/lessons/
 [swc-site]: http://software-carpentry.org/
 
