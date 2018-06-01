@@ -16,7 +16,7 @@ Si quieres algunos detalles puedes ver la ultima presentacion de Mayo 2018 en [P
 # En proceso
 
 - [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
-- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben issues y Pull requests en sus propios repositorios. [Las lecciones estan listadas en la pagina de las Carpentries](https://software-carpentry.org/lessons/)
+- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben issues y Pull requests en sus propios repositorios. [Las lecciones estan listadas en la pagina de las Carpentries](https://software-carpentry.org/lessons/) y continuaran mejorando.
 
 # Planes
 
@@ -34,13 +34,7 @@ Puedes también aplicar a tener un rol en el proyecto, como organizador, mantain
 
 ## Acuerdo de Colaborador
 
-Al contribuir, tú aceptas que podemos redistribuir su trabajo bajo
-[nuestra licencia](LICENCIA.md). A cambio, abordaremos tus problemas 
-y/o evaluaremos tu propuesta de cambio tan pronto como podamos, y 
-te ayudaremos a convertirte en miembro de nuestra comunidad. Todos los 
-involucrados en [Software Carpentry][swc-site] y 
-[Data Carpentry][dc-site]
-aceptan cumplir con nuestro [código de conducta](CONDUCT.md).
+Al contribuir, tú aceptas que podemos redistribuir tu trabajo bajo una licesia abierta, puedes ver más detalles en cada una de las lecciones. También esperamos que todos sigan el [código de conducta](CONDUCT.md).
 
 ## Cómo contribuir
 
