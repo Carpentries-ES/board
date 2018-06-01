@@ -5,6 +5,14 @@ Somos integrantes de varios países y trabajamos remotamente. Seguimos aprendien
 
 # Logros 
 
+Estamos muy felices de que la lista de logros sigue creciendo. 
+- [La terminal de Unix](https://github.com/swcarpentry/shell-novice-es)
+- [Control de versiones con Git](https://github.com/swcarpentry/git-novice-es)
+- [R para Análisis Científicos Reproducibles](https://github.com/swcarpentry/r-novice-gapminder-es)
+- Estamos en [Zenodo](https://zenodo.org/communities/carpentries/?page=1&size=20) y nos puedes citar
+
+Si quieres algunos detalles puedes ver la ultima presentacion de Mayo 2018 en [PDF en Inglés](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o el [repo](https://github.com/Carpentries-ES/Presentations)
+
 Marzo 2018, hemos agregado la leccion de [R para análysis reproducible](https://swcarpentry.github.io/r-novice-gapminder-es/) a la lista de lecciones traducidas de Software Carpentry.
 Hasta Febrero 20, 2018 tenemos dos lecciones públicas. Nuevos aportes son bienvenidos en el repositorio de Software Carpentry.
 Nuestros repositorios de trabajo en [https://github.com/Carpentries-ES](https://github.com/Carpentries-ES) han sido archivados y ahora son sólo de lectura, para continuar con cambios y mejoras por favor rigigirse a:
