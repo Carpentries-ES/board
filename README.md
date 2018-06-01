@@ -1,7 +1,7 @@
 # Bienvenidos
 
-Hola bienvenidas/bienvenidos al equipo de traducción de las carpentries! Somos un grupo de personas interesadas en expandir la iniciativa TheCarpentries para la comunidad que habla español.
-Somos integrantes de varios países tratando de apoyar a la comunidad latina/hispano hablante, brindando estas lecciones de acceso libre en Español.
+Hola bienvenidas/bienvenidos al equipo de traducción de las carpentries! Somos un grupo de personas interesadas en expandir [The Carpentries](https://carpentries.org/) en la comunidad que habla español.
+Somos integrantes de varios países y trabajamos remotamente. Seguimos aprendiendo en el proceso y valoramos tu tiempo y esfuerzo en ayudarnos.
 
 # Logros 
 
