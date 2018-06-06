@@ -25,7 +25,7 @@ El siguiente paso es traducir la leccion de [ecology de Data Carpentry](http://w
 # Cómo puedo contribuir?
 
 1) Mediante GitHub directamente a la lección: 
-[Software Carpentry][swc-site] y [Data Carpentry][dc-site] (ambas unidad en [The Carpentries])(https://carpentries.org/) son
+[Software Carpentry][swc-site] y [Data Carpentry][dc-site] ambas unidas en [The Carpentries](https://carpentries.org/) son
 proyectos de código abierto, y damos la bienvenida a contribuciones 
 de todo tipo: nuevas lecciones, correcciones al material existente, 
 informes de errores, y revisiones de los cambios propuestos son todas
