@@ -60,8 +60,8 @@ Al contribuir, tú aceptas que podemos redistribuir tu trabajo bajo una licesia 
 
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
 * Puedes contactarnos por correo electrónico directamente con Paula Martinez (orchid00 at gmail.com) o Rayna Harris (rayna.harris at gmail.com)
-* [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/Spanish)
-* [Mailing list para tranductores](https://groups.google.com/forum/#!forum/carpentries-traductores) (Spanish)
+* [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/español)
+* [Mailing list para tranductores](https://groups.google.com/forum/#!forum/carpentries-traductores) (español)
 
 
 [dc-lessons]: http://datacarpentry.org/lessons/
