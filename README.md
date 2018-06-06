@@ -22,7 +22,7 @@ Si quieres algunos detalles puedes ver la ultima presentacion de Mayo 2018 en [P
 
 El siguiente paso es traducir la leccion de [ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop)
 
-# Cómo puedo contribuir?
+# ¿Cómo puedo contribuir?
 
 1) Mediante GitHub directamente a la lección: 
 [Software Carpentry][swc-site] y [Data Carpentry][dc-site] ambas unidas en [The Carpentries](https://carpentries.org/) son
@@ -51,7 +51,7 @@ y conocer a algunos de los miembros de nuestra comunidad.
 
 Por favor ponte en contacto con nostros directamente por email o mediante el **mailing list** (Ver abajo).
 
-## Acuerdo de Colaborador
+## Acuerdo de colaborador
 
 Al contribuir, tú aceptas que podemos redistribuir tu trabajo bajo una licesia abierta, puedes ver más detalles en cada una de las lecciones. También esperamos que todos sigan el [código de conducta](CONDUCT.md).
 
