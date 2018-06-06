@@ -11,28 +11,29 @@ Estamos muy felices de que la lista de logros sigue creciendo.
 - [R para Análisis Científicos Reproducibles](https://github.com/swcarpentry/r-novice-gapminder-es) Mar, 2018
 - Estamos en [Zenodo](https://zenodo.org/communities/carpentries/?page=1&size=20) y nos puedes citar
 
-Si quieres algunos detalles puedes ver la ultima presentacion de Mayo 2018 en [PDF en Inglés](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o el [repo](https://github.com/Carpentries-ES/Presentations)
+Si quieres algunos detalles puedes ver la ultima presentación de Mayo 2018 en [PDF en Inglés](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o el [repo](https://github.com/Carpentries-ES/Presentations).
 
 # En proceso
 
 - [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
-- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. [Las lecciones estan listadas en la pagina de las Carpentries](https://software-carpentry.org/lessons/) y continuaran mejorando.
+- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. [Las lecciones estan listadas en la pagina de las Carpentries](https://software-carpentry.org/lessons/) y continuarán mejorando.
 
 # Planes
 
-El siguiente paso es traducir la leccion de [ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop)
+El siguiente paso es traducir la [lección de ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop).
 
 # ¿Cómo puedo contribuir?
 
-1) Mediante GitHub directamente a la lección: 
-[Software Carpentry][swc-site] y [Data Carpentry][dc-site] ambas unidas en [The Carpentries](https://carpentries.org/) son
+1) Mediante GitHub directamente a la lección.
+[Software Carpentry][swc-site] y [Data Carpentry][dc-site] ambas
+unidas en [The Carpentries](https://carpentries.org/) son
 proyectos de código abierto, y damos la bienvenida a contribuciones 
 de todo tipo: nuevas lecciones, correcciones al material existente, 
 informes de errores, y revisiones de los cambios propuestos son todas
 bienvenidas.
 
-2) Contribuir con capacitación, convenios, y contactos
-Puedes también aplicar a tener un rol en el proyecto, como organizador, mantainer, editor, escritor de blogs, instructor, trainer, liason, etc. Queremos saber cómo quisieras apoyarnos, y qué tiempo tienes para dar.
+2) Contribuir con capacitación, convenios, y contactos.
+Puedes también aplicar a tener un rol en el proyecto, como organizador, maintainer, editor, escritor de blogs, instructor, trainer, liaison, etc. Queremos saber cómo quisieras apoyarnos, y qué tiempo tienes para dar.
 
 ## Punto 1. Cómo contribuir mediante GitHub
 
@@ -45,24 +46,24 @@ y conocer a algunos de los miembros de nuestra comunidad.
 
 2. Si tiene una cuenta de [GitHub][github], o [crea una cuenta][github-join], si no sabes cómo usar git, te recomendamos la lección de [Git](https://github.com/swcarpentry/git-novice-es). Mientras lees y aprendes con cualquiera de las lecciones puedes informar problemas o sugerir mejoras al crear un problema o **issue**. Esto nos permite asignar el elemento a alguien y responder en una conversación abierta. 
 
-2. Si te sientes cómodo con Git, y te gustaría agregar o cambiar material, puede enviar una solicitud de extracción o **pull request** (PR). Las  instrucciones para hacer esto [se incluyen a continuación](#usando-github).
+3. Si te sientes cómodo con Git, y te gustaría agregar o cambiar material, puede enviar una solicitud de extracción o **pull request** (PR). Las  instrucciones para hacer esto [se incluyen a continuación][como-contribuir].
 
 ## Punto 2. Cómo contribuir con capacitación, convenios, y contactos
 
-Por favor ponte en contacto con nostros directamente por email o mediante el **mailing list** (Ver abajo).
+Por favor ponte en contacto con nostros directamente por email o mediante el **mailing list** (ver abajo).
 
 ## Acuerdo de colaborador
 
-Al contribuir, tú aceptas que podemos redistribuir tu trabajo bajo una licesia abierta, puedes ver más detalles en cada una de las lecciones. También esperamos que todos sigan el [código de conducta](CONDUCT.md).
-
+Al contribuir, tú aceptas que podemos redistribuir tu trabajo bajo una
+licensia abierta, puedes ver más detalles en cada una de las lecciones.
+También esperamos que todos sigan el [código de conducta](CONDUCT.md).
 
 ## Contactos
 
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
 * Puedes contactarnos por correo electrónico directamente con Paula Martinez (orchid00 at gmail.com) o Rayna Harris (rayna.harris at gmail.com)
 * [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/español)
-* [Mailing list para tranductores](https://groups.google.com/forum/#!forum/carpentries-traductores) (español)
-
+* [Mailing list para traductores](https://groups.google.com/forum/#!forum/carpentries-traductores) (español)
 
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
