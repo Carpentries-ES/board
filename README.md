@@ -61,7 +61,7 @@ También esperamos que todos sigan el [código de conducta](CONDUCT.md).
 ## Contactos
 
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
-* Puedes contactarnos por correo electrónico directamente con Paula Martinez (orchid00 at gmail.com) o Rayna Harris (rayna.harris at gmail.com)
+* Puedes contactarnos por correo electrónico directamente con Rayna Harris (rayna.harris at gmail.com)
 * [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/español)
 * [Mailing list para traductores](https://groups.google.com/forum/#!forum/carpentries-traductores) (español)
 
