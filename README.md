@@ -1,7 +1,7 @@
 # Bienvenidos
 
-Hola bienvenidas/bienvenidos al equipo de traducción de las carpentries! Somos un grupo de personas interesadas en expandir [The Carpentries](https://carpentries.org/) en la comunidad que habla español.
-Somos integrantes de varios países y trabajamos remotamente. Seguimos aprendiendo en el proceso y valoramos tu tiempo y esfuerzo en ayudarnos.
+¡Hola bienvenidas/bienvenidos! al equipo de traducción de las carpentries. Somos un grupo de personas interesadas en impulsar y expandir [The Carpentries](https://carpentries.org/) en Latinoamerica y en general con la comunidad que habla española en cualquier parte del mundo.
+Somos integrantes de varios países y trabajamos remotamente. Seguimos aprendiendo en este proceso y valoramos tu tiempo y esfuerzo en ayudarnos. Sabemos que muchas personas se beneficiarán con las lecciones traducidas y por eso lo seguimos haciendo.
 
 # Logros 
 
@@ -9,18 +9,18 @@ Estamos muy felices de que la lista de logros sigue creciendo.
 - [La terminal de Unix](https://github.com/swcarpentry/shell-novice-es) Feb, 2018
 - [Control de versiones con Git](https://github.com/swcarpentry/git-novice-es) Feb, 2018
 - [R para Análisis Científicos Reproducibles](https://github.com/swcarpentry/r-novice-gapminder-es) Mar, 2018
-- Estamos en [Zenodo](https://zenodo.org/communities/carpentries/?page=1&size=20) y nos puedes citar
+- También estamos en [Zenodo](https://zenodo.org/communities/carpentries/?page=1&size=20) y nos puedes citar
 
-Si quieres algunos detalles puedes ver la última presentación de Mayo 2018 en [PDF](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o en el [repositorio](https://github.com/Carpentries-ES/Presentations), ambos en Inglés.
+Si quieres más detalles, puedes ver la última presentación de Mayo 2018 en [PDF](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o el [repositorio](https://github.com/Carpentries-ES/Presentations), ambos en Inglés.
 
 # En proceso
 
 - [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
-- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. [Las lecciones estan listadas en la pagina de las Carpentries](https://software-carpentry.org/lessons/) y continuarán mejorando.
+- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. [Las lecciones estan listadas en la página de las Carpentries](https://software-carpentry.org/lessons/) y continuarán mejorando.
 
 # Planes
 
-El siguiente paso es traducir la [lección de ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop).
+El siguiente paso es traducir la [lección de ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop). Podemos empezar con la lección de R.
 
 # ¿Cómo puedo contribuir?
 
