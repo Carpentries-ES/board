@@ -116,6 +116,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **file**   	|  archivo 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
+| **plot** 	|  gráfico 	| |
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
 | **refresh** | actualizar |
