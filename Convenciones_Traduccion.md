@@ -30,7 +30,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
 
-## Términos técnicos, no traducir sólo marcar con negrita o arregar ` ` si es una variable o parámetro
+## Términos técnicos, no traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
 
 Por favor mantener orden alfabético
 
@@ -135,6 +135,8 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 
 ## Fonología del código - cómo leerlo en voz alta
 
+*Referencia* http://www.elcodigoascii.com.ar/
+
 |  código 	| como al leer el código en voz alta |
 | :---: | --- |
 | ``` {} ``` | abre y cierra llaves curvas |
@@ -159,4 +161,3 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | ``` > ``` | mayor que | 
 | ``` < ``` | menor que | 
 
-*Nota:* Referencia http://www.elcodigoascii.com.ar/
