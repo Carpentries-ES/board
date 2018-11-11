@@ -20,7 +20,7 @@ Si quieres más detalles, puedes ver la última presentación de Mayo 2018 en [P
 
 # Planes
 
-El siguiente paso es traducir la [lección de ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop). Podemos empezar con la lección de R.
+El siguiente paso es traducir la [lección de ecology de Data Carpentry](http://www.datacarpentry.org/lessons/#ecology-workshop). Podemos empezar con la lección de Python. Empezamos el 9 de Noviembre [aqui](https://github.com/Carpentries-ES/python-ecology-lesson-es).
 
 # ¿Cómo puedo contribuir?
 
