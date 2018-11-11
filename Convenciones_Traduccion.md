@@ -135,26 +135,26 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 
 |  código 	| como al leer el código en voz alta |
 | :---: | --- |
-| ``` {} ``` | abre y cierra llave curva |
+| ``` {} ``` | abre y cierra llaves curvas |
 | ``` () ``` | abre y cierra paréntesis |
 | ``` [] ``` | abre y cierra corchetes |
-| ``` " ``` | comillas dobles , comillas altas o inglesas |
-| ``` ! ``` | signo de exclamacion, signo de admiracion |
-| ``` # ``` | signo numeral,  almohadilla, un **hashtag** |
-| ``` / ``` | bara, barra inclinada, división, operador cociente, caracter de barra,  |
+| ``` " ``` | comillas dobles|
+| ``` ! ``` | signo de exclamación, signo de admiración |
+| ``` # ``` | signo numeral, un **hashtag** |
+| ``` / ``` | bara, barra inclinada, división|
 | ``` \ ``` | barra invertida , contrabarra , barra inversa |
 |  &#124; | barra vertical, pleca , linea vertical, un **pipe** |
 | ``` * ``` | asterisco, comodín,	caracter especial |
 | ``` ~ ``` | tilde, signo de equivalencia |
-| ``` _ ``` | guión bajo, subrayado, subguión|
+| ``` _ ``` | guión bajo|
 | ``` . ``` | punto |
-| ``` ` ``` | acento grave |
-| ``` $ ``` | signo de dólar, signo pesos, un **prompt** | 
-| ``` + ``` | signo mas, suma, positivo |
+| ``` ` ``` | acento grave, **tick**|
+| ``` $ ``` | signo de dólar, un **prompt** | 
+| ``` + ``` | signo más, suma, positivo |
 | ``` , ``` | coma |
 | ``` - ``` | signo menos , resta , negativo , guión medio |
 | ``` = ``` | signo igual, igualdad, igual que |
 | ``` > ``` | mayor que | 
 | ``` < ``` | menor que | 
 
-*Nota:* Vea http://www.elcodigoascii.com.ar/
+*Nota:* Referencia http://www.elcodigoascii.com.ar/
