@@ -30,7 +30,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
 
-## Términos técnicos, no traducir sólo marcar con negrita
+## Términos técnicos, no traducir sólo marcar con negrita o arregar ` ` si es una variable o parámetro
 
 Por favor mantener orden alfabético
 
@@ -49,7 +49,8 @@ Por favor mantener orden alfabético
     - el tipo de datos **character** en R
 - **D**
     - el **dataset**
-    - el **dataframe**
+    - el **dataframe** # en R
+    - el `DataFrame` # en Python
     - el **Desktop**
     - tipo de datos **double**
 - **E**
@@ -81,6 +82,7 @@ Por favor mantener orden alfabético
     - sin artículo **pull**
     - sin artículo **push**
     - el **query**
+    - el `pandas`
 - **R**
     - sin artículo **root**
 - **S**   
