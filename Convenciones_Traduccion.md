@@ -130,3 +130,31 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **version control**  	| control de versiones|  |
 | **wild card**  | comodín  | caracter especial |
 | **working directory** 	| directorio de trabajo | carpeta de trabajo 	|
+
+## Fonología del código - cómo leerlo en voz alta
+
+|  código 	| como al leer el código en voz alta |
+| :---: | --- |
+| ``` {} ``` | abre y cierra llave curva |
+| ``` () ``` | abre y cierra paréntesis |
+| ``` [] ``` | abre y cierra corchetes |
+| ``` " ``` | comillas dobles , comillas altas o inglesas |
+| ``` ! ``` | signo de exclamacion, signo de admiracion |
+| ``` # ``` | signo numeral,  almohadilla, un **hashtag** |
+| ``` / ``` | bara, barra inclinada, división, operador cociente, caracter de barra,  |
+| ``` \ ``` | barra invertida , contrabarra , barra inversa |
+|  &#124; | barra vertical, pleca , linea vertical, un **pipe** |
+| ``` * ``` | asterisco, comodín,	caracter especial |
+| ``` ~ ``` | tilde, signo de equivalencia |
+| ``` _ ``` | guión bajo, subrayado, subguión|
+| ``` . ``` | punto |
+| ``` ` ``` | acento grave |
+| ``` $ ``` | signo de dólar, signo pesos, un **prompt** | 
+| ``` + ``` | signo mas, suma, positivo |
+| ``` , ``` | coma |
+| ``` - ``` | signo menos , resta , negativo , guión medio |
+| ``` = ``` | signo igual, igualdad, igual que |
+| ``` > ``` | mayor que | 
+| ``` < ``` | menor que | 
+
+*Nota:* Vea http://www.elcodigoascii.com.ar/
