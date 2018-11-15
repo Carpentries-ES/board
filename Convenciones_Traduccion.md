@@ -20,12 +20,12 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
 - {:.callout} y {: .challenge} Son símbolos de estilo
 - Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
-- Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que el traducirlos dejaría mas claro las instrucciones.
+- Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras.
 - Nombres de libros (referencias o citas)
 - Nombres de programas
 - Nombres de directorios o **paths**
 - Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
-- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
+- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información), por ejemplo tipos de datos, se ha decidido no traducirlos.
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
@@ -59,6 +59,7 @@ Por favor mantener orden alfabético
     - sin artículo **flag**
     - **false** / **FALSE**
     - **factor**
+    - **float**
  - **G** 
     - **gapminder**
  - **H**
@@ -94,6 +95,7 @@ Por favor mantener orden alfabético
     - el **timestamp**
     - el **username**
     - **true** / **TRUE**
+    - tipo de datos **text**
 
 Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
@@ -124,7 +126,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
-| **string**  	|  secuencia de caracteres  | |
+| **string**  	|  secuencia de caracteres sólo se traduce si no es un tipo de datos  | |
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** / **hint** | sugerencia | consejo, pista|
