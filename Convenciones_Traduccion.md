@@ -126,7 +126,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
-| **string**  	|  secuencia de caracteres sólo se traduce si no es un tipo de datos  | |
+| **string**  	|  secuencia de caracteres -sólo se traduce si no es un tipo de datos  | |
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** / **hint** | sugerencia | consejo, pista|
