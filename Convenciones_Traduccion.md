@@ -53,6 +53,7 @@ Por favor mantener orden alfabético
     - el `DataFrame` # en Python
     - el **Desktop**
     - tipo de datos **double**
+    - un **docstring**
 - **E**
    - el **e-value**
 - **F** 
@@ -118,8 +119,10 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **dry-run** 	    | ejecución "en seco" 	| |
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
+| **input**   	|  entrada 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
+| **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
 | **plot** 	|  gráfico 	| |
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
