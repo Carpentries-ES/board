@@ -105,7 +105,7 @@ Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con
 Por favor mantener orden alfabético.
 La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas, pero usaremos la primera columna para la traducción.
 
-|  Inglés 	| Español usar esta palabra | (sinónimos) |
+|  Inglés 	| Usar esta columna en la traducción | (sinónimos) |
 |---	      |---	  |--- |
 | **attendees**| participantes | asistentes|
 | **browser**| Navegador de archivos | |
@@ -128,6 +128,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **package** 	|  paquete 	| |
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
+| **row**  |  fila | renglón |
 | **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
