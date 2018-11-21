@@ -120,7 +120,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
 | **input**   	|  entrada 	| |
-| **library** 	|  librería 	| |
+| **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglisismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
