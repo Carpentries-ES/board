@@ -19,5 +19,5 @@ Una lista de tallers enseñados en Español o en Latinoamerica
 | June 11-12 | online | US 9 am - 5 pm PDT  (1 pm - 9 pm ART)
 | June 12-13 | online | 9 am - 5 pm EDT (10 am - 6 pm ART)
 | August 28-29 | online | 9 am - 5 pm EDT (10 am - 6 pm ART)
-| December 03-04 | in-person + online | 9 am - 5 pm ART (https://malvikasharan.github.io/2018-12-03-ttt-quilmes/) English
+| December 03-04 | Buenos Aires in-person + online | 9 am - 5 pm ART (https://malvikasharan.github.io/2018-12-03-ttt-quilmes/) | English
 
