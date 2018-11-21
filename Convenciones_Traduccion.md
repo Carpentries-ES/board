@@ -120,10 +120,12 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
 | **input**   	|  entrada 	| |
+| **library** 	|  librería 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
 | **plot** 	|  gráfico 	| |
+| **package** 	|  paquete 	| |
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
 | **refresh** | actualizar |
