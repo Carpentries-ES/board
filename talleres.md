@@ -7,7 +7,7 @@ Una lista de tallers enseñados en Español o en Latinoamerica
 | 7 Abril 2018 | Buenos Aires |  https://raynamharris.github.io/2018-04-07-BuenosAires/ |
 | 27 - 28 June 2018 | Davis | http://ivory.idyll.org/dibsi/
 | 30 Julio - 3 Agosto 2018 | Mexico City | http://congresos.nnb.unam.mx/TIB2018/ |
-
+| 5-7 December 2018 | Quilmes | https://malvikasharan.github.io/2018-12-05-quilmes/ (English)|
 
 # [Train the trainers](https://carpentries.github.io/instructor-training/)
 
