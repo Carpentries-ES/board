@@ -83,8 +83,9 @@ Por favor mantener orden alfabético
     - el **prompt**
     - sin artículo **pull**
     - sin artículo **push**
-    - el **query**
     - el `pandas`
+- **Q**
+    - el **query**
 - **R**
     - sin artículo **root**
 - **S**   
