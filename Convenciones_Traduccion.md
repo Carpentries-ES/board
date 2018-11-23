@@ -7,7 +7,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 ## Atención
  - Idioma oficial: Español de latinoamerica (en si, por que la mayoría de los traductores son de latinoamerica)
  - Esta es una tradución en tono de voz informal
- - Vamos a tutear en las traducciones, decir "Tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
+ - Vamos a tutear en las traducciones, decir "tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
  - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
  - Ser cuidadosos con los acentos o tildes
  - Abrir y cerrar símbolos de pregunta y exclamación
@@ -20,12 +20,12 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
 - {:.callout} y {: .challenge} Son símbolos de estilo
 - Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
-- Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras.
+- Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras
 - Nombres de libros (referencias o citas)
 - Nombres de programas
 - Nombres de directorios o **paths**
 - Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
-- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información), por ejemplo tipos de datos, se ha decidido no traducirlos.
+- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información), por ejemplo tipos de datos, se ha decidido no traducirlos
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
@@ -120,8 +120,9 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **dry-run** 	    | ejecución "en seco" 	| |
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
+| **index**   	|  índice (sustantivo) 	| |
 | **input**   	|  entrada 	| |
-| **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglisismo) 	| |
+| **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglicismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
