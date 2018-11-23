@@ -114,7 +114,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **click**  	|  clic  	| |
 | **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
-| **contributer** |  contribuidor, no contribuyente||
+| **contributor** |  colaborador (no contribuidor por q es adjetivo, no contribuyente) ||
 | **Challenge** 	    | desafío	|reto|
 | **dollar sign** 	    | signo `$`	| |
 | **dry-run** 	    | ejecución "en seco" 	| |
