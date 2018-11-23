@@ -120,7 +120,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **dry-run** 	    | ejecución "en seco" 	| |
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
-| **index**   	|  índice (sustantivo) 	| |
+| **index** / **indexing**   	|  índice (sustantivo) / indexar	| |
 | **input**   	|  entrada 	| |
 | **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglicismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
