@@ -122,7 +122,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **file**   	|  archivo 	| |
 | **index** / **indexing**   	|  índice (sustantivo) / indexar	| |
 | **input**   	|  entrada 	| |
-| **key**   	|  clave (cuando se habla de listas) 	| |
+| **key**   	|  clave (cuando se habla de diccionarios) 	| |
 | **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglicismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
