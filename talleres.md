@@ -18,7 +18,6 @@ Para estos talleres, se invitó a los participantes de habla hispana a asistir y
 | 25 - 26 June 2018 | Davis, CA | http://ivory.idyll.org/dibsi/ | 3 participantes de habla hispana|
 | June 11-12 | JAX lab | https://raynamharris.github.io/2018-06-11-ttt-jax/ | 2 participantes de habla hispana se unieron remotamente
 | August 28-29 | online | https://raynamharris.github.io/2018-08-18-ttt-LatinAmerica/ | Dia 2 enseñado en español
-| September 2018 |  Buenos Aires | https://github.com/raynamharris/2018-09-05-LatinR | 
-taller de medio dia | 
+| September 2018 |  Buenos Aires | https://github.com/raynamharris/2018-09-05-LatinR | taller de medio dia | 
 | December 03-04 | Buenos Aires |https://malvikasharan.github.io/2018-12-03-ttt-quilmes/ | híbrido, algunos instructores se unen remotamente
 
