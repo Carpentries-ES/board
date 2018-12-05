@@ -63,7 +63,7 @@ También esperamos que todos sigan el [código de conducta](https://docs.carpent
 * [Software Carpentry][swc-site] y [Data Carpentry][dc-site]  
 * Puedes contactarnos por correo electrónico directamente con Rayna Harris (rayna.harris at gmail.com)
 * [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/español)
-* Comunícate con nosotros en el [canal de Slack en español](https://swcarpentry.slack.com/messages/CDZLNHSMQ)
+* Comunícate con nosotros en el [canal de Slack en español](https://swcarpentry.slack.com/messages/CDZLNHSMQ) si no eres miembro esta es tu [invitación](https://swc-slack-invite.herokuapp.com/).
 
 [dc-lessons]: http://datacarpentry.org/lessons/
 [dc-site]: http://datacarpentry.org/
