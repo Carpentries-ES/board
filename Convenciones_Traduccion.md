@@ -34,6 +34,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 A veces, es útil usar el término en español seguido de su equivalente original en inglés. Por ejemplo
 
 - Manual de Carpentries (**Carpentries Handbook**)
+- corrección de errores (**debug**)
 
 ### Términos técnicos
 
