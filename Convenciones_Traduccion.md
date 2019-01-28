@@ -31,7 +31,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 
 ### Usar ambos
 
-A veses, es útil usar el término en español seguido de su equivalente original en inglés. Por ejemplo
+A veces, es útil usar el término en español seguido de su equivalente original en inglés. Por ejemplo
 
 - Manual de Carpentries (**Carpentries Handbook**)
 
