@@ -14,7 +14,7 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
  - Ortografía
  - Por defecto las traducciones llevarán género femenino (la-las-investigadoras-programadoras-etc) a fin de equilibrar el sesgo existente en la mayoría de los documentos, que usan el género masculino
  - Todos los números del cero al diez se escriben literalmente
- 
+  
 ## NO se traduce
 
 - Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
@@ -29,8 +29,16 @@ Por favor vayan agregando algunos lineamentos que consideren apropiados. Si nece
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
+### Usar ambos
 
-## Términos técnicos, no traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
+A veces, es útil usar el término en español seguido de su equivalente original en inglés. Por ejemplo
+
+- Manual de Carpentries (**Carpentries Handbook**)
+- corrección de errores (**debug**)
+
+### Términos técnicos
+
+no traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
 
 Por favor mantener orden alfabético
 
