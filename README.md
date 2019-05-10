@@ -15,6 +15,8 @@ Si quieres más detalles, puedes ver la última presentación de Mayo 2018 en [P
 
 # En proceso
 
+- El 10 de Mayo se comenzó hacer la traducción de la lección shell-genomics de datacarpentry. Por favor contactar a Heladia Salga do quien está liderando este emprendimiento. 
+
 - [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md)
 - Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. Las lecciones estan listadas en la página de las Carpentries [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carepentry](https://datacarpentry.org/lessons/) y continuarán mejorando.
 
