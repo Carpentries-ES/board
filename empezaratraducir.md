@@ -9,6 +9,7 @@ Hola, (ayer 9 de Mayo del 2019) en la reunión de Carpentries-ES, varios mencion
 Aquí les dejo, está abierto a correcciones o a agregar más detalles, pero en sí mi idea es dejar un resumen de los pasos.
 
 1. Importar la leccion que se quiere traducir a la organisación https://github.com/Carpentries-ES
+1. Copiar todos los archivos del folder _episodes a un folder con el nombre _episodes_en para guardar una copia de los archivos originales.  
 1. Crear un **issue** por cada archivo que haya que traducir, por ejemplo: https://github.com/datacarpentry/python-ecology-lesson-es/issues/5
 1. Asignar un **issue** por persona o dar a conocer todos los **issue** y que cada persona se pueda auto asignar.
 1. Crear un proyecto con 4 columnas, mas o menos así https://github.com/datacarpentry/python-ecology-lesson-es/projects/1 ayuda mucho para hacer el seguimiento.
