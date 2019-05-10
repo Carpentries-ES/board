@@ -16,7 +16,7 @@ Aquí les dejo, está abierto a correcciones o a agregar más detalles, pero en 
 1. Cuando un archivo esté traducido puede pasar a ser revisado, por favor trata en lo mas posible que hayan al menos dos revisores.
 1. Además del proyecto, me sirvió de mucho tener una visión resumida de todo, usé una tabla de progreso https://github.com/datacarpentry/python-ecology-lesson-es/blob/gh-pages/fechas-progreso.md
 
-Durante todo el proyecto coordinar, reinforzar y ayudar a todos los voluntarios ha sido vital.
+> Durante todo el proyecto coordinar, reinforzar y ayudar a todos los voluntarios ha sido vital.
 
 ### Sugerencias
 
@@ -25,6 +25,8 @@ Durante todo el proyecto coordinar, reinforzar y ayudar a todos los voluntarios 
 - Compartr las noticias, antes durante y despues.
 - Mantener un lazo con los mainteiners de la leccion original, y dar retroalimentacion si es que algo puede se mejorar.
 - Mantener las tarjetas del proyecto y la tabla de progreso constantemente actualizadas es también importante para todos los que estan trabajando en lograr la meta. 
+- Tener al menos 3 personas comprometidas.
+- Buscar **mantainers**
 
 ### Más información
 
