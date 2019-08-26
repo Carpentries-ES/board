@@ -1,32 +1,51 @@
 # Lineamientos de traducción  
 
-Este será un documento compartido entre todos los traductores, donde podemos acceder a los lineamientos de traducción.
-Por favor vayan agregando algunos lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento contactarse con Hely o Paula.
-
+Este será un documento compartido entre todos los traductores, donde podemos
+acceder a los lineamientos de traducción. Por favor vayan agregando algunos
+lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento contactarse con Hely o Paula.
 
 ## Atención
- - Idioma oficial: Español de latinoamerica (en si, por que la mayoría de los traductores son de latinoamerica)
- - Esta es una tradución en tono de voz informal
- - Vamos a tutear en las traducciones, decir "tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
- - Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
- - Ser cuidadosos con los acentos o tildes
- - Abrir y cerrar símbolos de pregunta y exclamación
- - Ortografía
- - Por defecto las traducciones llevarán género femenino (la-las-investigadoras-programadoras-etc) a fin de equilibrar el sesgo existente en la mayoría de los documentos, que usan el género masculino
- - Todos los números del cero al diez se escriben literalmente
-  
+
+- Idioma oficial: Español de latinoamerica (en si, por que la mayoría de los traductores son de latinoamerica)
+
+- Esta es una tradución en tono de voz informal
+
+- Vamos a tutear en las traducciones, decir "tú" en vez de "vos" o "usted" y todas las conjugaciones de la persona "tú"
+
+- Usar "ustedes" en vez de "vosotros" y todas las respectivas conjugaciones
+
+- Ser cuidadosos con los acentos o tildes
+
+- Abrir y cerrar símbolos de pregunta y exclamación
+
+- Ortografía
+
+- Por defecto las traducciones llevarán género femenino (la-las-investigadoras-programadoras-etc) a fin de equilibrar el sesgo existente en la mayoría de los documentos, que usan el género masculino
+
+- Todos los números del cero al diez se escriben literalmente
+
 ## NO se traduce
 
 - Los títulos en la cabecera de cada capítulo no se traducen, son símbolos de estilo (**title**, **objectives**, **keypoints**, etc.)
+
 - {:.callout} y {: .challenge} Son símbolos de estilo
+
 - Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
+
 - Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras
+
 - Nombres de libros (referencias o citas)
+
 - Nombres de programas
+
 - Nombres de directorios o **paths**
+
 - Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
+
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información), por ejemplo tipos de datos, se ha decidido no traducirlos
+
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
+
 - Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
 
 ### Usar ambos
@@ -44,17 +63,20 @@ Por favor mantener orden alfabético
 
 - **A**
     - el **array**
+
 - **B**
     - sin artículo **bash**
     - el **bit score**
     - los **bytes**
     - el **branch**
+
 - **C**
     - el **checkout**
     - sin artículo **commit**
     - el **cluster**
     - el tipo de datos **complex** en R
     - el tipo de datos **character** en R
+
 - **D**
     - el **dataset**
     - el **dataframe** # en R
@@ -62,28 +84,37 @@ Por favor mantener orden alfabético
     - el **Desktop**
     - tipo de datos **double**
     - un **docstring**
+
 - **E**
    - el **e-value**
-- **F** 
+
+- **F**
     - sin artículo **flag**
     - **false** / **FALSE**
     - **factor**
     - **float**
- - **G** 
+
+ - **G**
     - **gapminder**
+
  - **H**
     - **home**
+
 - **I**
     - el tipo de datos **integer**
+
 - **L**
     - **list**
     - el tipo de datos **logical** en R
-- **M**    
+
+- **M**
     - sin artículo **merge**
     - los **mismatches**
-- **O**   
+
+- **O**
     - el **output**
-- **P**   
+
+- **P**
     - el **password**
     - el **path**
     - un **pipe**
@@ -92,16 +123,20 @@ Por favor mantener orden alfabético
     - sin artículo **pull**
     - sin artículo **push**
     - el `pandas`
+
 - **Q**
     - el **query**
+
 - **R**
     - sin artículo **root**
-- **S**   
+
+- **S**
     - el **script**
     - el **set**
     - el **stage area**
     - el **subject**
-- **T, U, V, W, X, Y, Z**   
+
+- **T, U, V, W, X, Y, Z**
     - el **timestamp**
     - el **username**
     - **true** / **TRUE**
