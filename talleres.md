@@ -1,6 +1,6 @@
 # Talleres en Español o en Latinoamérica
 
-Una lista de talleres enseñados en Español o en Latinoamérica
+Lista de talleres enseñados en Español o en Latinoamérica. Software Carpentry, Data Carpentry y Library Carpentry.
 
 | Fecha | Ubicación |  Página web |
 | --- | --- | --- |
@@ -9,15 +9,16 @@ Una lista de talleres enseñados en Español o en Latinoamérica
 | 30 Julio - 3 Agosto 2018 | Mexico City | http://congresos.nnb.unam.mx/TIB2018/ |
 | 5-7 Diciembre 2018 | Quilmes | https://malvikasharan.github.io/2018-12-05-quilmes/ (English)|
 
-## [Train the trainers](https://carpentries.github.io/instructor-training/)
+## [Instructor training](https://carpentries.github.io/instructor-training/)
 
-Para estos talleres, se invitó a los participantes de habla hispana a asistir y utilizar las traducciones de las lecciones de español para los ejercicios de codificación en vivo.
+Para estos talleres, se invitó a los participantes de habla hispana a asistir y utilizar las traducciones de las lecciones de español para los ejercicios de codificación en vivo. Lista de talleres enseñados en Español o en Latinoamérica [https://carpentries.github.io/instructor-training/](https://carpentries.github.io/instructor-training/)
 
 | Fecha | Ubicación |  Página web | Notas |
 | --- | --- | --- | --- |
-| 25 - 26 June 2018 | Davis, CA | http://ivory.idyll.org/dibsi/ | 3 participantes de habla hispana|
-| June 11-12 | JAX lab | https://raynamharris.github.io/2018-06-11-ttt-jax/ | 2 participantes de habla hispana se unieron remotamente
-| August 28-29 | online | https://raynamharris.github.io/2018-08-18-ttt-LatinAmerica/ | Dia 2 enseñado en español
-| 5 September 2018 |  Buenos Aires | https://raynamharris.github.io/2018-09-05-LatinR/| taller de medio dia | 
-| December 03-04 | Buenos Aires |https://malvikasharan.github.io/2018-12-03-ttt-quilmes/ | híbrido, algunos instructores se unen remotamente
-
+| 2018-06-24 | Davis, CA | http://ivory.idyll.org/dibsi/ | 3 participantes de habla hispana|
+| 2018-06-11 | JAX lab | https://raynamharris.github.io/2018-06-11-ttt-jax/ | 2 participantes de habla hispana se unieron remotamente
+| 2018-08-28 | online | https://raynamharris.github.io/2018-08-18-ttt-LatinAmerica/ | Dia 2 enseñado en español
+| 2018-09-05 |  Buenos Aires | https://raynamharris.github.io/2018-09-05-LatinR/| taller de medio dia | 
+| 2018-12-03 | Buenos Aires |https://malvikasharan.github.io/2018-12-03-ttt-quilmes/ | híbrido, algunos instructores se unen remotamente|
+| 2019-10-22 | Colombia | https://froggleston.github.io/2019-10-22-ttt-colombia/ | completamente en ingles|
+| 2019-10-28 | Peru, Lima | https://npalopoli.github.io/2019-10-28-ttt-lima/ | híbrido, algunos instructores se unen remotamente|
