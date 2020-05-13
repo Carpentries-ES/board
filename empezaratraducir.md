@@ -69,7 +69,7 @@ en la medida de lo posible, que hayan al menos dos revisores.
 - Comunícate con nosotros en el [canal de Slack en español](https://swcarpentry.slack.com/messages/CDZLNHSMQ), si no eres miembro esta es tu
 [invitación](https://swc-slack-invite.herokuapp.com/).
 
-
+---------------------------------------------------------------------------------------
 ## Traducciones usando Transifex
 
 Video https://youtu.be/388CDBUr62U
