@@ -1,10 +1,10 @@
 - Paula Andrea Martinez
-- Mayo 10, 2019
+- Mayo 13, 2020
 - Descripción de los pasos para traducir una lección.
 
 ## Resumen
 
-Hola, (ayer 9 de Mayo del 2019) en la reunión de Carpentries-ES, varios mencionaron que sería bueno tener los pasos descritos de cómo hicimos la [última traducción](https://github.com/datacarpentry/python-ecology-lesson-es).
+Hola en la reunión de Carpentries-ES el 9 de Mayo del 2019, varios mencionaron que sería bueno tener los pasos descritos de cómo hicimos la [última traducción](https://github.com/datacarpentry/python-ecology-lesson-es) usando GitHub.
 
 ## Proceso
 
@@ -60,3 +60,11 @@ en la medida de lo posible, que hayan al menos dos revisores.
 
 - Comunícate con nosotros en el [canal de Slack en español](https://swcarpentry.slack.com/messages/CDZLNHSMQ), si no eres miembro esta es tu
 [invitación](https://swc-slack-invite.herokuapp.com/).
+
+
+# A continuacion de describe como se hacen las traducciones usando Transifex
+
+Video https://youtu.be/388CDBUr62U
+
+
+
