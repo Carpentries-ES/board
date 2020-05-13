@@ -1,12 +1,19 @@
+# Traducciones
+
+[Traducciones usando GitHub](#Traducciones-usando-GitHub)
+[Traducciones usando Transifex](#Traducciones-usando-Transifex)
+
+## Traducciones usando GitHub
+
 - Paula Andrea Martinez
 - Mayo 13, 2020
 - Descripción de los pasos para traducir una lección.
 
-## Resumen
+### Resumen
 
 Hola en la reunión de Carpentries-ES el 9 de Mayo del 2019, varios mencionaron que sería bueno tener los pasos descritos de cómo hicimos la [última traducción](https://github.com/datacarpentry/python-ecology-lesson-es) usando GitHub.
 
-## Proceso
+### Proceso
 
 Aquí les dejo, está abierto a correcciones o a agregar más detalles, pero en sí mi idea es dejar un resumen de los pasos.
 
@@ -31,9 +38,9 @@ en la medida de lo posible, que hayan al menos dos revisores.
 > Durante todo el proyecto coordinar, reinforzar y ayudar a todos los
 > voluntarios ha sido vital.
 
-## Sugerencias
+### Sugerencias
 
-- Manteneractivos a los voluntarios por medio de email y Slack.
+- Mantener activos a los voluntarios por medio de email y Slack.
 
 - Twittear para tener apoyo de la comunidad.
 
@@ -48,7 +55,7 @@ en la medida de lo posible, que hayan al menos dos revisores.
 
 - Buscar **mantainers**
 
-## Más información
+### Más información
 
 - https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md
 
@@ -62,7 +69,7 @@ en la medida de lo posible, que hayan al menos dos revisores.
 [invitación](https://swc-slack-invite.herokuapp.com/).
 
 
-# A continuacion de describe como se hacen las traducciones usando Transifex
+## Traducciones usando Transifex
 
 Video https://youtu.be/388CDBUr62U
 
