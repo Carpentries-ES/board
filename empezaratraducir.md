@@ -1,14 +1,15 @@
 # Traducciones
 
-[Traducciones usando GitHub](#Traducciones-usando-GitHub)
-[Traducciones usando Transifex](#Traducciones-usando-Transifex)
+- [Traducciones usando GitHub](#Traducciones-usando-GitHub)
+- [Traducciones usando Transifex](#Traducciones-usando-Transifex)
 
 ## Traducciones usando GitHub
 
-- Paula Andrea Martinez
-- Mayo 13, 2020
-- Descripción de los pasos para traducir una lección.
-
+```
+Paula Andrea Martinez
+Mayo 13, 2020
+Descripción de los pasos para traducir una lección.
+```
 ### Resumen
 
 Hola en la reunión de Carpentries-ES el 9 de Mayo del 2019, varios mencionaron que sería bueno tener los pasos descritos de cómo hicimos la [última traducción](https://github.com/datacarpentry/python-ecology-lesson-es) usando GitHub.
