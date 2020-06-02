@@ -54,10 +54,11 @@ A veces, es útil usar el término en español seguido de su equivalente origina
 
 - Manual de Carpentries (**Carpentries Handbook**)
 - corrección de errores (**debug**)
+- biblioteca(s) estándar(es) (**built in**) -- en Python
 
 ### Términos técnicos
 
-no traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
+No traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
 
 Por favor mantener orden alfabético
 
@@ -78,7 +79,7 @@ Por favor mantener orden alfabético
     - el tipo de datos **character** en R
 
 - **D**
-    - el **dataset**
+    - el **dataset** en contexto en una oración se traduce como conjunto de datos
     - el **dataframe** # en R
     - el `DataFrame` # en Python
     - el **Desktop**
@@ -116,13 +117,13 @@ Por favor mantener orden alfabético
 
 - **P**
     - el **password**
+    - la biblioteca **pandas** o sin artículo **pandas**
     - el **path**
     - un **pipe**
     - el **pipeline**
     - el **prompt**
     - sin artículo **pull**
     - sin artículo **push**
-    - el `pandas`
 
 - **Q**
     - el **query**
@@ -169,9 +170,11 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglicismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
+| **loop variable** 	|  variable de control 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
 | **plot** 	|  gráfico 	| |
 | **package** 	|  paquete 	| |
+| **pandas** | no traducir usar minúscula y negrita||
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
 | **row**  |  fila | renglón |
@@ -179,6 +182,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
 | **string**  	|  secuencia de caracteres -sólo se traduce si no es un tipo de datos  | |
+| **Segmenting** | dividir| segmentar (anglisismo)|
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** / **hint** | sugerencia | consejo, pista|
