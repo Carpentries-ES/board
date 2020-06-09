@@ -30,7 +30,7 @@ lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento
 
 - {:.callout} y {: .challenge} Son símbolos de estilo
 
-- Nombres de paquetes y funciones en R como ggplot2, tidyr, dplyr
+- Nombres de paquetes y funciones en R y Python: ggplot2, tidyr, dplyr, pandas, scipy, 
 
 - Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras
 
@@ -42,11 +42,11 @@ lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento
 
 - Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
 
-- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información), por ejemplo tipos de datos, se ha decidido no traducirlos
+- Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 
-- Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer**
+- Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer** y escribirlos con mayúsculas y negritas
 
 ### Usar ambos
 
@@ -54,7 +54,6 @@ A veces, es útil usar el término en español seguido de su equivalente origina
 
 - Manual de Carpentries (**Carpentries Handbook**)
 - corrección de errores (**debug**)
-- biblioteca(s) estándar(es) (**built in**) -- en Python
 
 ### Términos técnicos
 
@@ -143,18 +142,20 @@ Por favor mantener orden alfabético
     - **true** / **TRUE**
     - tipo de datos **text**
 
-Nota: me estoy dando cuenta que todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
+Nota: Todos los anglicismos que hemos agregado van con artículo masculino el, a menos que sea un verbo.
 
 ## Términos técnicos a traducir - Glosario
 
 Por favor mantener orden alfabético.
-La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas, pero usaremos la primera columna para la traducción.
+La columna de sinónimos está aquí sólo de referencia, son palabras que tienen el mismo significado, pero usaremos la primera columna para una traducción homogénea.
 
 |  Inglés 	| Usar esta columna en la traducción | (sinónimos) |
 |---	      |---	  |--- |
 | **attendees**| participantes | asistentes|
 | **browser**| Navegador de archivos | |
 | **build** | construir el ejecutable | |
+| **built in libraries** | biblioteca(s) estándar(es) ||
+| **built in** | incorporada ||
 | **click**  	|  clic  	| |
 | **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
@@ -174,13 +175,14 @@ La columna de sinónimos está aquí sólo de referencia, son palabras aceptadas
 | **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
 | **plot** 	|  gráfico 	| |
 | **package** 	|  paquete 	| |
-| **pandas** | no traducir usar minúscula y negrita||
+| **plotting library** | biblioteca de gráficos||
 | **quote** 	|  entrecomillar 	| |
 | **run** 	|  ejecutar 	| |
 | **row**  |  fila | renglón |
 | **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
+| **statement**  |  declaración|instrucción, sentencia | 
 | **string**  	|  secuencia de caracteres -sólo se traduce si no es un tipo de datos  | |
 | **Segmenting** | dividir| segmentar (anglisismo)|
 | **self-contained** project| proyecto autónomo ||
