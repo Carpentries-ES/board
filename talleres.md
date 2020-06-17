@@ -8,6 +8,8 @@ Lista de talleres enseñados en Español o en Latinoamérica. Software Carpentry
 | 2018-06-27 | Estados Unidos, Davis | http://ivory.idyll.org/dibsi/ | dos días|
 | 2018-07-31 | Mexico, Mexico City | http://congresos.nnb.unam.mx/TIB2018/ | 30 Julio - 3 Agosto 2018 |
 | 2018-12-05 | Argentina, Quilmes | https://malvikasharan.github.io/2018-12-05-quilmes/ (English)| dos días|
+| 2018-12-03 | Sao Paulo, Brasil | https://codata-rda-datascienceschools.github.io/Materials/DataSaoPaulo2018/ (English)| tres días|
+| 2019-12-02 | San José, Costa Rica | https://codata-rda-datascienceschools.github.io/Materials/DataSanJose2019/ (English)| tres días|
 
 ## [Instructor training](https://carpentries.github.io/instructor-training/)
 
