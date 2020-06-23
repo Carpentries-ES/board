@@ -112,7 +112,7 @@ Por favor mantener orden alfabético
     - los **mismatches**
 
 - **O**
-    - el **output**
+    - el **out** (en Jupyter Notebooks)
 
 - **P**
     - el **password**
@@ -172,7 +172,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **loop variable** 	|  variable de control 	| |
-| **output**   	|  salida (cuando se refiere a input-output) o resultado 	| |
+| **output**   	|  salida (cuando se refiere a input-output) o  resultado si es lo que se devuelve de una función, y si es verbo utilizar devlover. No traducir el **out** si es de Jupyter Notebooks	| |
 | **plot** 	|  gráfico 	| |
 | **package** 	|  paquete 	| |
 | **plotting library** | biblioteca de gráficos||
