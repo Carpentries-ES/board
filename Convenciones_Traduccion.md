@@ -46,7 +46,7 @@ lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento
 
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 
-- Nombres de roles, por ejemplo **Instructor**, **Maintainer**, **Trainer** y escribirlos con mayúsculas y negritas
+- Nombres de roles The Charpentries, por ejemplo **Instructor**, **Maintainer**, **Trainer** y escribirlos con mayúsculas y negritas
 
 ### Usar ambos
 
@@ -159,21 +159,24 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **click**  	|  clic  	| |
 | **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
-| **contributor** |  colaborador (no contribuidor por q es adjetivo, no contribuyente) ||
+| **contributor** |  colaborador (no contribuidor o contribuyente) como sustantivo y adjetivo ||
 | **Challenge** 	    | desafío	|reto|
 | **dollar sign** 	    | signo `$`	| |
 | **dry-run** 	    | ejecución "en seco" 	| |
 | **environment variable**  | variable de entorno | |
 | **file**   	|  archivo 	| |
 | **index** / **indexing**   	|  índice (sustantivo) / indexar	| |
+| **indentation** | indentación (lo aceptamos aunque es un anglicismo, por que es la palabra más usada en programación. En textos literarios usamos sangría)||
 | **input**   	|  entrada 	| |
-| **key**   	|  clave (cuando se habla de diccionarios) 	| |
+| **key**   	|  clave (cuando se habla de diccionarios), tecla cuando se habla del teclado 	|llave |
 | **library** 	|  biblioteca, (el uso de librería ha sido descartado por ser un anglicismo) 	| |
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **loop variable** 	|  variable de control 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o  resultado si es lo que se devuelve de una función, y si es verbo utilizar devlover. No traducir el **out** si es de Jupyter Notebooks	| |
+| **Maintainer** | (En contexto) Mantenedor (es aceptado por la RAE) | |
 | **plot** 	|  gráfico 	| |
+| **print** | según el contexto mostrar, no imprimir| |
 | **package** 	|  paquete 	| |
 | **plotting library** | biblioteca de gráficos||
 | **quote** 	|  entrecomillar 	| |
