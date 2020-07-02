@@ -156,6 +156,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **build** | construir el ejecutable | |
 | **built in libraries** | biblioteca(s) estándar(es) ||
 | **built in** | incorporada ||
+| **bullet points** | puntos | viñetas|
 | **click**  	|  clic  	| |
 | **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
