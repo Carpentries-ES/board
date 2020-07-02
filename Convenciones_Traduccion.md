@@ -185,6 +185,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **refresh** | actualizar |
 | **spreadsheet**  	|  planilla de cálculo  | |
 | **shell**  	       |  la terminal  | la linea de comandos |
+| **slice** | corte |
 | **statement**  |  declaración|instrucción, sentencia | 
 | **string**  	|  secuencia de caracteres -sólo se traduce si no es un tipo de datos  | |
 | **Segmenting** | dividir| segmentar (anglisismo)|
