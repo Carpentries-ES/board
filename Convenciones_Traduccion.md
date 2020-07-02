@@ -197,6 +197,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** / **hint** | sugerencia | consejo, pista|
 | **trash bin**  | papelera de reciclaje	| |
+| **trace** | rastrear||
 | **version control**  	| control de versiones|  |
 | **wild card**  | comodín  | caracter especial |
 | **working directory** 	| carpeta de trabajo 	|directorio de trabajo | 
