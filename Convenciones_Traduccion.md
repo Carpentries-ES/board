@@ -121,7 +121,7 @@ Por favor mantener orden alfabético
     - un **pipe**
     - el **pipeline**
     - el **prompt**
-    - sin artículo **pull**
+    - sin artículo **pull request**
     - sin artículo **push**
 
 - **Q**
