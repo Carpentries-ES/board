@@ -158,6 +158,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **built in libraries** | biblioteca(s) estándar(es) ||
 | **built in** | incorporada ||
 | **bullet points** | puntos | viñetas|
+| **cell**  	|  celda (en Jupyter notebooks)  	| |
 | **click**  	|  clic  	| |
 | **command line**  	|  la línea de comandos  	| |
 | **computer** 	    | computadora | ordenador  	|
@@ -177,6 +178,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **loop variable** 	|  variable de control 	| |
 | **output**   	|  salida (cuando se refiere a input-output) o  resultado si es lo que se devuelve de una función, y si es verbo utilizar devolver. No traducir el **out** si es de Jupyter Notebooks	| |
 | **Maintainer** | (En contexto) Mantenedor (es aceptado por la RAE) | |
+| **Notebook**  	|  Notebook sin traducir si es Jupyter notebook, o cuaderno  	| |
 | **plot** 	|  gráfico 	| |
 | **print** | según el contexto mostrar, no imprimir| |
 | **package** 	|  paquete 	| |
