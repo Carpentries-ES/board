@@ -174,7 +174,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **legacy systems** 	|  sistemas obsoletos | sistemas heredados 	|
 | **loop** 	|  bucle 	| |
 | **loop variable** 	|  variable de control 	| |
-| **output**   	|  salida (cuando se refiere a input-output) o  resultado si es lo que se devuelve de una función, y si es verbo utilizar devlover. No traducir el **out** si es de Jupyter Notebooks	| |
+| **output**   	|  salida (cuando se refiere a input-output) o  resultado si es lo que se devuelve de una función, y si es verbo utilizar devolver. No traducir el **out** si es de Jupyter Notebooks	| |
 | **Maintainer** | (En contexto) Mantenedor (es aceptado por la RAE) | |
 | **plot** 	|  gráfico 	| |
 | **print** | según el contexto mostrar, no imprimir| |
