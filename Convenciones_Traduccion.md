@@ -196,7 +196,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **trash bin**  | papelera de reciclaje	| |
 | **version control**  	| control de versiones|  |
 | **wild card**  | comodín  | caracter especial |
-| **working directory** 	| directorio de trabajo | carpeta de trabajo 	|
+| **working directory** 	| carpeta de trabajo 	|directorio de trabajo | 
 
 ## Fonología del código - cómo leerlo en voz alta
 
