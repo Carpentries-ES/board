@@ -18,19 +18,22 @@ Estamos muy felices de que la lista de logros sigue creciendo.
 
 Si quieres más detalles, puedes ver la última presentación de Mayo 2018 en [PDF](https://github.com/Carpentries-ES/Presentations/blob/master/2018/CarpentryCon/Spanish%20Lessons%20and%20Community_chrome.pdf) o el [repositorio](https://github.com/Carpentries-ES/Presentations), ambos en Inglés.
 
+- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. Las lecciones están listadas en la página de las Carpentries como lecciones en Español **Spanish lessons** [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carepentry](https://datacarpentry.org/lessons/) y continuarán mejorando.
+
 ## En proceso
 
-- El 10 de Mayo de 2018 se comenzó a hacer la traducción de la lección
-shell-genomics de datacarpentry. Por favor contactar a Heladia Salgado quien
+- El 25 de Mayo de 2020 se comenzó a traduccir la lección
+Python gapminder de Software carpentry. Por favor contactar a Paula A Martinez quien
 está liderando este emprendimiento.
 
-- [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md).
+- También el [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md) está en proceso.
 
-- Las lecciones traducidas ahora publicadas siguen el mismo proceso de revisión de las lecciones en Inglés, y reciben **issues** y **Pull requests** en sus propios repositorios. Las lecciones están listadas en la página de las Carpentries [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carepentry](https://datacarpentry.org/lessons/) y continuarán mejorando.
+- El handbook de las carpentries, por favor contactar a Leonardo Spairani quien
+está liderando este emprendimiento.
 
 ## Planes
 
-Acabamos de terminar la traducción de [Análisis y visualización de datos usando Python](https://datacarpentry.org/python-ecology-lesson-es/) en Diciembre del 2018. Contáctanos para definir cual será la próxima traducción.
+Contáctanos escribiendo un **issue** para definir cual será la próxima traducción.
 
 ## ¿Cómo puedo contribuir?
 
@@ -54,7 +57,7 @@ poder corregirlo, como un error ortográfico, algunas palabras no claras,
 o un error fáctico. Contribuir es una buena forma de presentarte
 y conocer a algunos de los miembros de nuestra comunidad.
 
-1. Antes de aportar por favor lee las [convenciones de tradución](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md).
+1. Antes de aportar con traducciones por favor lee las [convenciones de tradución](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md).
 
 2. Necesitas una cuenta de [GitHub][github], puedes[crear una cuenta][github-join] gratuitamente. Si todavía no sabes cómo usar git, te recomendamos la lección de
 3. [Git](https://github.com/swcarpentry/git-novice-es) que ya hemos traducido. Mientras lees y aprendes con cualquiera de nuestras lecciones puedes informarnos si encuentras algún problema, o sugerirnos cómo mejorar la lección. Esto lo hacemos creando un **issue** en Github, puedes leer más en las [guías de GitHub](https://guides.github.com/features/issues/). Usamos **issues** para describir el problema y asignarlo a alguien, luego se inicia una conversación abierta donde pueden todos agregar comentarios para resolver el problema.
@@ -74,8 +77,6 @@ en un equipo amigable.
 ### Contactos
 
 - [Software Carpentry][swc-site] y [Data Carpentry][dc-site]
-
-- Puedes contactarnos por correo electrónico directamente con Rayna Harris (rayna.harris at gmail.com)
 
 - [Mailing list Latinoamerica](https://carpentries.topicbox.com/groups/local-latinoamerica/members) (English/español)
 
