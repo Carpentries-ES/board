@@ -23,8 +23,7 @@ Si quieres más detalles, puedes ver la última presentación de Mayo 2018 en [P
 ## En proceso
 
 - El 25 de Mayo de 2020 se comenzó a traduccir la lección
-Python gapminder de Software carpentry. Por favor contactar a Paula A Martinez quien
-está liderando este emprendimiento.
+Python gapminder de Software carpentry. Terminamos de traducir el 3 de Julio y estamos revisando el formato. Repositorio temporal https://carpentries-i18n.github.io/python-novice-gapminder/ antes de mover la lección al sitio oficial. Por favor contactar a Paula A Martinez quien está liderando este emprendimiento.
 
 - También el [workshop-template](https://github.com/Carpentries-ES/workshop-template/blob/gh-pages/index.md) está en proceso.
 
