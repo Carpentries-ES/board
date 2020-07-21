@@ -197,6 +197,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **self-contained** project| proyecto autónomo ||
 | **tab completion**  | autocompletar	|autocompletado con el tabulador |
 | **tip** / **hint** | sugerencia | consejo, pista|
+| **tidy** / **untidy** | ordenado / desordenado  (cuando se refiere a los datos no a la función)||
 | **trash bin**  | papelera de reciclaje	| |
 | **trace** | rastrear||
 | **version control**  	| control de versiones|  |
