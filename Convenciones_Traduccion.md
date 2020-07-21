@@ -106,6 +106,7 @@ Por favor mantener orden alfabético
 - **L**
     - **list**
     - el tipo de datos **logical** en R
+    - **levels** en R, se puede agregar (categorías)
 
 - **M**
     - sin artículo **merge**
