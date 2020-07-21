@@ -86,7 +86,7 @@ Por favor mantener orden alfabético
     - un **docstring**
 
 - **E**
-   - el **e-value**
+   - el **e-value**   
 
 - **F**
     - sin artículo **flag**
@@ -168,6 +168,7 @@ La columna de sinónimos está aquí sólo de referencia, son palabras que tiene
 | **dollar sign** 	    | signo `$`	| |
 | **dry-run** 	    | ejecución "en seco" 	| |
 | **environment variable**  | variable de entorno | |
+| **e.g.**  | ejemplo| |
 | **file**   	|  archivo 	| |
 | **index** / **indexing**   	|  índice (sustantivo) / indexar	| |
 | **indentation** | indentación (lo aceptamos aunque es un anglicismo, por que es la palabra más usada en programación. En textos literarios usamos sangría)||
