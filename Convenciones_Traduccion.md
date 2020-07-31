@@ -2,11 +2,11 @@
 
 Este será un documento compartido entre todos los traductores, donde podemos
 acceder a los lineamientos de traducción. Por favor vayan agregando algunos
-lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento contactarse con Hely o Paula.
+lineamentos que consideren apropiados. Si necesitan discutir algún lineamiento contactarse con Hely o Paula.
 
 ## Atención
 
-- Idioma oficial: Español de latinoamerica (en si, por que la mayoría de los traductores son de latinoamerica)
+- Idioma oficial: Español de latinoamerica (en sí, por que la mayoría de los traductores son de latinoamérica)
 
 - Esta es una tradución en tono de voz informal
 
@@ -47,6 +47,10 @@ lineamentos que consideren apropiados. Si necesitan discutir algún alineamiento
 - Imágenes, texto dentro de las imágenes, tampoco la referencia a donde se encuentra la imagen
 
 - Nombres de roles The Charpentries, por ejemplo **Instructor**, **Maintainer**, **Trainer** y escribirlos con mayúsculas y negritas
+
+### Traducción de referencias
+
+En el caso de referencias bibliográficas (libros, artículos, sitios web) se recomiendo cambiar la referencia por una versión en español, siempre que esta exista y sea de la misma calidad que la original.
 
 ### Usar ambos
 
