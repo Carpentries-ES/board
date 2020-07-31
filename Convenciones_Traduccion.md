@@ -34,13 +34,11 @@ lineamentos que consideren apropiados. Si necesitan discutir algún lineamiento 
 
 - Nombres de variables en ejemplos y en general el código encerrado entre ~~~ ~~~ {: .bash},  {: .r}. Nota: Los comentarios dentro del código pueden traducirse si ven que al traducirlos las instrucciones serían más claras
 
-- Nombres de libros (referencias o citas)
-
 - Nombres de programas
 
 - Nombres de directorios o **paths**
 
-- Nombres de la organización, por ejemplo **The Carpentries**, **Software Carpentry** and **Data Carpentry**
+- Nombres de la organización, por ejemplo **Carpentries**, **Software Carpentry** and **Data Carpentry**
 
 - Términos técnicos, pero hay que indicarlos en negrita (por favor ver abajo para más información)
 
@@ -48,18 +46,18 @@ lineamentos que consideren apropiados. Si necesitan discutir algún lineamiento 
 
 - Nombres de roles The Charpentries, por ejemplo **Instructor**, **Maintainer**, **Trainer** y escribirlos con mayúsculas y negritas
 
-### Traducción de referencias
+
+## Traducción de referencias
 
 En el caso de referencias bibliográficas (libros, artículos, sitios web) se recomiendo cambiar la referencia por una versión en español, siempre que esta exista y sea de la misma calidad que la original.
 
-### Usar ambos
-
+## Usar ambos
 A veces, es útil usar el término en español seguido de su equivalente original en inglés. Por ejemplo
 
 - Manual de Carpentries (**Carpentries Handbook**)
 - corrección de errores (**debug**)
 
-### Términos técnicos
+## Términos técnicos
 
 No traducir sólo marcar con negrita o arregar `` ` `` si es una variable o parámetro
 
