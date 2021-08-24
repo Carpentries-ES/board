@@ -62,6 +62,8 @@ Para estos talleres, se invitó a los participantes de habla hispana a asistir y
 | 2018-12-03 | Argentina, Buenos Aires |https://malvikasharan.github.io/2018-12-03-ttt-quilmes/ | híbrido, algunos instructores se unen remotamente|
 | 2019-10-22 | Colombia, Bogotá | https://froggleston.github.io/2019-10-22-ttt-colombia/ | completamente en ingles|
 | 2019-10-28 | Peru, Lima | https://npalopoli.github.io/2019-10-28-ttt-lima/ | híbrido, algunos instructores se unen remotamente|
+| 2020-08-11 al 18 | MetaDocencia. Argentina (online) | https://paocorrales.github.io/2020-08-11-ttt-online-spanish/ | Todo en español. 21 participantes. Trainers: Laura Ación, Nicolás Palopoli, Paola Corrales. Paises participantes: Argentina, Bolivia. Checkout completo: 20 personas|
+| 2021-08-14 al 21 | MetaDocencia. Argentina (online) | https://paocorrales.github.io/2021-08-14-ttt-online-spanish/ | Todo en español. 23 participantes. Trainers: Paola Corrales, Nicolás Palopoli, Yanina Bellini Saibene y Laura Ación. Países participantes: Argentina, México, Ecuador, Uruguay. |
 
 
 
